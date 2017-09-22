@@ -39,6 +39,15 @@ do
 	TrimmomaticSE -threads 2 -phred33 data/raw_data/ERR1942280.fastq data/trimmed/$(basename -s .fastq ERR1942280.fastq).trim.fastq LEADING:5 TRAILING:5 SLIDINGWINDOW:8:25 MINLEN:150 $file
 done
 
+# This for loop will convert fastq into fasta files so they can be used in the 
+# BLAST queries.
+
+for file in $@
+do
+	bioawk -c fastx '{print ">"$name"\n"$seq}' data/trimmed/filename.trim.fastq $file
+done
+
+
 
 
 
