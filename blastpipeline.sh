@@ -35,8 +35,10 @@ fastqc data/raw_data/*.fastq --outdir=output/fastqc
 # http://www.usadellab.org/cms/index.php?page=trimmomatic
 
 for file in $@
+do
+	TrimmomaticSE -threads 2 -phred33 data/raw_data/ERR1942280.fastq data/trimmed/$(basename -s .fastq ERR1942280.fastq).trim.fastq LEADING:5 TRAILING:5 SLIDINGWINDOW:8:25 MINLEN:150 $file
+done
 
-TrimmomaticSE -threads 2 -phred33 data/raw_data/ERR1942280.fastq data/trimmed/$(basename -s .fastq ERR1942280.fastq).trim.fastq LEADING:5 TRAILING:5 SLIDINGWINDOW:8:25 MINLEN:150
 
 
 
