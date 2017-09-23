@@ -46,8 +46,3 @@ for file in $@
 do
 	bioawk -c fastx '{print ">"$name"\n"$seq}' data/trimmed/filename.trim.fastq $file
 done
-
-
-
-
-
