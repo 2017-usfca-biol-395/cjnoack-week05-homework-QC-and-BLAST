@@ -50,3 +50,11 @@ do
 	TrimmomaticSE -threads 2 -phred33 $file data/trimmed/$(basename -s .fastq $file).trim.fastq LEADING:5 TRAILING:5 SLIDINGWINDOW:8:25 MINLEN:150
 done
 
+# Converting sequences from FASTQ to FASTA	
+
+echo "Converting our trimmed, fastq files into fasta..."
+for file in data/trimmed/*.trim.fastq
+do 
+	bioawk -c fastx '{print ">"$name"\n"$seq}' $file > data/trimmed/$(basename -s .fastq $file).fasta
+done
+echo "Done!"
