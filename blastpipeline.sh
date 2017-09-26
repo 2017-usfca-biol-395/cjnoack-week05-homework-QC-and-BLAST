@@ -50,11 +50,39 @@ do
 	TrimmomaticSE -threads 2 -phred33 $file data/trimmed/$(basename -s .fastq $file).trim.fastq LEADING:5 TRAILING:5 SLIDINGWINDOW:8:25 MINLEN:150
 done
 
-# Converting sequences from FASTQ to FASTA	
+# Converting sequences from FASTQ to FASTA
 
 echo "Converting our trimmed, fastq files into fasta..."
 for file in data/trimmed/*.trim.fastq
-do 
+do
 	bioawk -c fastx '{print ">"$name"\n"$seq}' $file > data/trimmed/$(basename -s .fastq $file).fasta
 done
 echo "Done!"
+
+# This line will BLAST each sequence and find the top match against the nucleotide database. What will output 
+# will be a csv file called blast_results.csv. 
+
+# options and what they're for:
+# -db sets which database to use, in this case the nucleotide database
+# -num_threads is how many different processor threads to use
+# -outfrmt is the output format, further info available here:
+# https://www.ncbi.nlm.nih.gov/books/NBK279675/
+# -o is the filename to save the results in
+# -max_target_seqs is the number of matches ot return for each query
+# -negative_gilist tells BLAST which sequences to exclude from matches
+# This cuts down on the number of uncultured or environmental matches
+# -query is the fasta file of sequences we want to search for matches to
+
+# Make directory for the BLAST output first
+echo "Making subdirectory for BLAST..."
+mkdir output/blast
+echo "Done!"
+
+# BLAST
+echo "Putting files through BLAST..."
+for file in data/trimmed/*.trim.fasta
+do
+	blastn -db /blast-db/nt -num_threads 2 -outfmt '10 sscinames std' -out output/blast/blast_results.csv -max_target_seqs 1 -negative_gilist /blast-db/2017-09-21_GenBank_Environmental_Uncultured_to_Exclude.txt -query $file
+done
+echo "Done!"
+
