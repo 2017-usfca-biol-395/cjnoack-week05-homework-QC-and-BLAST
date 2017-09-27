@@ -82,7 +82,7 @@ echo "Done!"
 echo "Putting files through BLAST..."
 for file in data/trimmed/*.trim.fasta
 do
-	blastn -db /blast-db/nt -num_threads 2 -outfmt '10 sscinames std' -out output/blast/blast_results.csv -max_target_seqs 1 -negative_gilist /blast-db/2017-09-21_GenBank_Environmental_Uncultured_to_Exclude.txt -query $file
+	blastn -db /blast-db/nt -num_threads 2 -outfmt '10 sscinames std' -out output/blast/$(basename -s .fasta $file).blast_results.csv -max_target_seqs 1 -negative_gilist /blast-db/2017-09-21_GenBank_Environmental_Uncultured_to_Exclude.txt -query $file
 done
 echo "Done!"
 
