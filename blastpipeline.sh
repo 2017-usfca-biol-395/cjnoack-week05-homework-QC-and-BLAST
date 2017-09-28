@@ -6,7 +6,7 @@
 
 # Chelsea Noack
 # cjnoack@tule.usfca.edu
-# Created: September 22, 2017, Modified: September 22, 2017
+# Created: September 22, 2017, Modified: September 28, 2017
 
 # The following line ensures the programs will work by checking to see if there is 
 # a value for the variable BLASTDB. If there isn't, it will set the appropriate 

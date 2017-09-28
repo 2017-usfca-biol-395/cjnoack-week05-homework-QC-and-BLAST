@@ -1,0 +1,720 @@
+      1 Acidovorax caeni,100.00
+      1 Acidovorax caeni,99.55
+      1 Acidovorax sp. K-4-16,96.88
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,98.13
+      1 Acidovorax sp.,98.14
+      1 Acidovorax sp.,98.64
+      1 Acidovorax sp.,98.65
+      1 Acidovorax sp.,98.97
+      1 Acidovorax sp.,99.07
+      1 Acidovorax sp.,99.07
+      1 Acidovorax sp.,99.07
+      1 Acidovorax sp.,99.10
+      1 Acidovorax sp.,99.10
+      1 Acidovorax sp.,99.47
+      1 Acidovorax sp.,99.47
+      1 Acidovorax sp.,99.48
+      1 Acidovorax sp.,99.49
+      1 Acidovorax sp.,99.51
+      1 Acidovorax sp.,99.54
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.56
+      1 Acidovorax sp.,99.56
+      1 Acidovorax sp.,99.56
+      1 Acidovorax sp.,99.56
+      1 Acidovorax sp.,99.56
+      1 Acidovorax sp.,99.56
+      1 Acidovorax temperans,100.00
+      1 Acidovorax temperans,100.00
+      1 Acidovorax temperans,100.00
+      1 Acidovorax temperans,100.00
+      1 Acidovorax temperans,100.00
+      1 Acidovorax temperans,100.00
+      1 Acidovorax temperans,100.00
+      1 Acidovorax temperans,100.00
+      1 Acidovorax temperans,100.00
+      1 Acidovorax temperans,100.00
+      1 Acidovorax temperans,100.00
+      1 Acidovorax temperans,100.00
+      1 Acidovorax temperans,100.00
+      1 Acidovorax temperans,100.00
+      1 Acidovorax temperans,94.59
+      1 Acidovorax temperans,95.31
+      1 Acidovorax temperans,95.61
+      1 Acidovorax temperans,95.79
+      1 Acidovorax temperans,96.05
+      1 Acidovorax temperans,97.30
+      1 Acidovorax temperans,97.30
+      1 Acidovorax temperans,97.30
+      1 Acidovorax temperans,97.95
+      1 Acidovorax temperans,99.12
+      1 Acidovorax temperans,99.55
+      1 Acinetobacter baumannii Naval-18,99.42
+      1 Acinetobacter baumannii OIFC083,100.00
+      1 Acinetobacter baumannii OIFC143,100.00
+      1 Acinetobacter baumannii,100.00
+      1 Acinetobacter baumannii,100.00
+      1 Acinetobacter baumannii,98.94
+      1 Acinetobacter calcoaceticus,100.00
+      1 Acinetobacter calcoaceticus,100.00
+      1 Acinetobacter calcoaceticus,100.00
+      1 Acinetobacter calcoaceticus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,96.85
+      1 Acinetobacter indicus,98.41
+      1 Acinetobacter indicus,98.92
+      1 Acinetobacter indicus,99.09
+      1 Acinetobacter indicus,99.47
+      1 Acinetobacter indicus,99.47
+      1 Acinetobacter indicus,99.55
+      1 Acinetobacter indicus,99.55
+      1 Acinetobacter indicus,99.55
+      1 Acinetobacter indicus,99.55
+      1 Acinetobacter indicus,99.55
+      1 Acinetobacter indicus,99.55
+      1 Acinetobacter indicus,99.55
+      1 Acinetobacter indicus,99.55
+      1 Acinetobacter indicus,99.56
+      1 Acinetobacter indicus,99.57
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,96.41
+      1 Acinetobacter junii,96.60
+      1 Acinetobacter junii,96.92
+      1 Acinetobacter junii,97.75
+      1 Acinetobacter junii,98.69
+      1 Acinetobacter junii,98.94
+      1 Acinetobacter junii,99.08
+      1 Acinetobacter junii,99.10
+      1 Acinetobacter junii,99.10
+      1 Acinetobacter junii,99.12
+      1 Acinetobacter junii,99.12
+      1 Acinetobacter junii,99.15
+      1 Acinetobacter junii,99.47
+      1 Acinetobacter junii,99.47
+      1 Acinetobacter junii,99.47
+      1 Acinetobacter junii,99.47
+      1 Acinetobacter junii,99.47
+      1 Acinetobacter junii,99.48
+      1 Acinetobacter junii,99.49
+      1 Acinetobacter junii,99.49
+      1 Acinetobacter junii,99.49
+      1 Acinetobacter junii,99.49
+      1 Acinetobacter junii,99.52
+      1 Acinetobacter junii,99.54
+      1 Acinetobacter junii,99.54
+      1 Acinetobacter junii,99.55
+      1 Acinetobacter junii,99.55
+      1 Acinetobacter junii,99.55
+      1 Acinetobacter junii,99.55
+      1 Acinetobacter junii,99.55
+      1 Acinetobacter junii,99.55
+      1 Acinetobacter junii,99.55
+      1 Acinetobacter junii,99.55
+      1 Acinetobacter junii,99.55
+      1 Acinetobacter junii,99.55
+      1 Acinetobacter junii,99.55
+      1 Acinetobacter junii,99.55
+      1 Acinetobacter junii,99.55
+      1 Acinetobacter junii,99.55
+      1 Acinetobacter junii,99.55
+      1 Acinetobacter junii,99.55
+      1 Acinetobacter junii,99.56
+      1 Acinetobacter sp. DsA.N033,98.15
+      1 Acinetobacter sp. WN5(2010),98.28
+      1 Acinetobacter sp.,91.40
+      1 Acinetobacter sp.,93.27
+      1 Acinetobacter venetianus,99.13
+      1 Afipia sp. alfa7-PCA-E3-2,100.00
+      1 Alphaproteobacteria bacterium,95.88
+      1 Aquitalea sp. KJ011,91.81
+      1 Aquitalea sp. KJ011,92.59
+      1 Aquitalea sp. KJ011,92.66
+      1 Aquitalea sp. KJ011,93.12
+      1 Aquitalea sp. KJ011,93.78
+      1 Aquitalea sp. KJ011,93.90
+      1 Aquitalea sp. KJ011,93.93
+      1 Aquitalea sp. KJ011,93.93
+      1 Aquitalea sp. KJ011,94.01
+      1 Aquitalea sp. KJ011,94.01
+      1 Aquitalea sp. KJ011,94.04
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.39
+      1 Aquitalea sp. KJ011,94.39
+      1 Aquitalea sp. KJ011,94.47
+      1 Aquitalea sp. KJ011,94.47
+      1 Aquitalea sp. KJ011,94.47
+      1 Aquitalea sp. KJ011,94.71
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.95
+      1 Arthrobacter bergerei,100.00
+      1 Azonexus caeni,97.27
+      1 Azonexus caeni,97.87
+      1 Azonexus caeni,97.88
+      1 Azospirillum sp. CC-LY736,98.66
+      1 Azospirillum sp. CC-LY736,99.10
+      1 Azospirillum sp. CC-LY736,99.10
+      1 Azospirillum sp. CC-LY736,99.10
+      1 Azospirillum sp. CC-LY736,99.11
+      1 Azospirillum sp. CC-LY736,99.11
+      1 Azospirillum sp. CC-LY736,99.11
+      1 Azotobacter sp. L461,97.82
+      1 Bacillus sp. IDA4275,98.66
+      1 Bdellovibrio bacteriovorus,100.00
+      1 Bosea sp. LMG 26381,100.00
+      1 Brevibacterium sp.,97.51
+      1 Candidatus Azospirillum massiliensis,98.67
+      1 Candidatus Azospirillum massiliensis,98.67
+      1 Candidatus Azospirillum massiliensis,98.67
+      1 Candidatus Azospirillum massiliensis,99.13
+      1 Candidatus Azospirillum massiliensis,99.14
+      1 Candidatus Azospirillum massiliensis,99.56
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Clavibacter michiganensis subsp. michiganensis,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,96.71
+      1 Cloacibacterium normanense,99.11
+      1 Cloacibacterium normanense,99.55
+      1 Cloacibacterium normanense,99.55
+      1 Cloacibacterium sp. O15.2,100.00
+      1 Cloacibacterium sp. O15.2,100.00
+      1 Cloacibacterium sp. O15.2,100.00
+      1 Cloacibacterium sp. O15.2,100.00
+      1 Cloacibacterium sp. O15.2,100.00
+      1 Cloacibacterium sp. O15.2,99.54
+      1 Corynebacterium sp. CH82b_3T,95.98
+      1 Corynebacterium sp. CH82b_3T,96.49
+      1 Desulfovibrio sp. ZIRB-2,91.98
+      1 Diaphorobacter sp. 8604S-37,95.79
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,99.10
+      1 Diaphorobacter sp.,99.12
+      1 Diaphorobacter sp.,99.54
+      1 Diaphorobacter sp.,99.55
+      1 Enhydrobacter sp.,100.00
+      1 Enhydrobacter sp.,100.00
+      1 Flavobacterium flaviflagrans,99.56
+      1 Flavobacterium sasangense,100.00
+      1 Flavobacterium sasangense,100.00
+      1 Flavobacterium sasangense,100.00
+      1 Flavobacterium sasangense,100.00
+      1 Flavobacterium sasangense,100.00
+      1 Flavobacterium sasangense,100.00
+      1 Flavobacterium sasangense,100.00
+      1 Gordonia hydrophobica,98.12
+      1 Gordonia hydrophobica,98.24
+      1 Gulbenkiania sp.,92.02
+      1 Gulbenkiania sp.,93.65
+      1 Gulbenkiania sp.,93.88
+      1 Gulbenkiania sp.,94.15
+      1 Gulbenkiania sp.,94.15
+      1 Gulbenkiania sp.,94.18
+      1 Gulbenkiania sp.,94.18
+      1 Gulbenkiania sp.,94.18
+      1 Gulbenkiania sp.,94.18
+      1 Gulbenkiania sp.,94.18
+      1 Gulbenkiania sp.,94.29
+      1 Gulbenkiania sp.,94.36
+      1 Gulbenkiania sp.,94.58
+      1 Hydrogenophaga sp. SA_12,91.44
+      1 Hydrogenophaga sp. SA_12,91.78
+      1 Intrasporangiaceae bacterium LCK-2009.8,98.62
+      1 Intrasporangiaceae bacterium LCK-2009.8,99.07
+      1 Intrasporangiaceae bacterium LCK-2009.8,99.07
+      1 Isoptericola sp.,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,95.28
+      1 Lupinus angustiflorus,95.29
+      1 Lupinus angustiflorus,95.38
+      1 Lupinus angustiflorus,95.38
+      1 Lupinus angustiflorus,95.38
+      1 Lupinus angustiflorus,95.42
+      1 Lupinus angustiflorus,95.45
+      1 Lupinus angustiflorus,95.51
+      1 Lupinus angustiflorus,98.65
+      1 Lupinus angustiflorus,99.45
+      1 Marmoricola sp. S20-100,96.88
+      1 Methylobacillus sp. OV,97.98
+      1 Methylobacillus sp. Z,95.38
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,91.42
+      1 Methylophilus quaylei,99.57
+      1 Methylophilus sp. LTK,100.00
+      1 Methylophilus sp. LTK,97.41
+      1 Methylophilus sp. TWE2,98.70
+      1 Methylotenera mobilis,99.07
+      1 Methylovorus glucosotrophus,100.00
+      1 Microlunatus panaciterrae,95.48
+      1 Microvirgula aerodenitrificans,97.06
+      1 Neisseria sp. KH2364,92.06
+      1 Nocardioides albertani,98.28
+      1 Nocardioides sp. P3693,97.25
+      1 Nocardioides sp. P3693,98.17
+      1 Nocardioides sp.,95.09
+      1 Novosphingobium resinovorum,99.11
+      1 Novosphingobium sp. B0.09-8,100.00
+      1 Novosphingobium sp.,100.00
+      1 Novosphingobium sp.,100.00
+      1 Novosphingobium sp.,100.00
+      1 Novosphingobium sp.,100.00
+      1 Novosphingobium sp.,100.00
+      1 Novosphingobium sp.,100.00
+      1 Novosphingobium sp.,100.00
+      1 Novosphingobium sp.,100.00
+      1 Novosphingobium sp.,100.00
+      1 Novosphingobium sp.,100.00
+      1 Novosphingobium sp.,100.00
+      1 Novosphingobium sp.,100.00
+      1 Novosphingobium sp.,100.00
+      1 Novosphingobium sp.,97.33
+      1 Novosphingobium sp.,97.78
+      1 Novosphingobium sp.,97.78
+      1 Novosphingobium sp.,99.54
+      1 Novosphingobium sp.,99.55
+      1 Novosphingobium sp.,99.55
+      1 Novosphingobium sp.,99.55
+      1 Novosphingobium sp.,99.55
+      1 Paludibacterium yongneupense,94.01
+      1 Pelomonas puraquae,100.00
+      1 Polaromonas sp.,100.00
+      1 Ponticoccus sp.,89.82
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,99.58
+      1 Propionibacterium acnes subsp. acnes,99.58
+      1 Propionibacterium acnes subsp. acnes,99.58
+      1 Propionibacterium acnes subsp. acnes,99.58
+      1 Propionibacterium acnes subsp. acnes,99.58
+      1 Propionibacterium acnes subsp. acnes,99.58
+      1 Pseudomonas gessardii,100.00
+      1 Pseudomonas koreensis,100.00
+      1 Pseudomonas koreensis,99.55
+      1 Roseomonas sp. M72C12B,96.59
+      1 Ruminococcus sp. P311,91.10
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Sphingobium sp. THG-SQA7,100.00
+      1 Sphingobium vulgare,99.54
+      1 Sphingobium vulgare,99.54
+      1 Sphingomonas sp.,100.00
+      1 Sphingomonas sp.,100.00
+      1 Sphingomonas sp.,100.00
+      1 Staphylococcus sp.,100.00
+      1 Staphylococcus sp.,100.00
+      1 Staphylococcus sp.,99.57
+      1 Streptococcus australis,100.00
+      1 Streptomyces sp.,99.55
+      1 Streptosporangium sp. NEAU-GH7,98.74
+      1 Uliginosibacterium gangwonense,97.29
+      1 Uliginosibacterium sp. M1-21,94.40
+      1 Zoogloea caeni,100.00
+      1 Zoogloea caeni,100.00
+      1 Zoogloea caeni,100.00
+      1 Zoogloea caeni,100.00
+      1 Zoogloea caeni,100.00
+      1 Zoogloea caeni,100.00
+      1 Zoogloea caeni,100.00
+      1 Zoogloea caeni,100.00
+      1 Zoogloea caeni,100.00
+      1 Zoogloea caeni,100.00
+      1 Zoogloea caeni,100.00
+      1 Zoogloea caeni,100.00
+      1 Zoogloea caeni,99.58
+      1 Zoogloea caeni,99.58
+      1 Zoogloea sp. AOPS-03-15,97.45
+      1 Zoogloea sp. HJ1,99.47
+      1 alpha proteobacterium AKB-2008-KU10,95.52
+      1 bacterium DQS-01,100.00
+      1 bacterium DQS-01,100.00
+      1 bacterium DQS-01,99.54
+      1 bacterium E2-59,96.45
+      1 bacterium FB2012,92.76
+      1 bacterium IARFR2474,83.07
+      1 bacterium L14(2011b),94.14
+      1 bacterium V9D2013,90.57
+      1 bacterium VCD1001,87.45
+      1 bacterium WH5-5,97.05
+      1 bacterium WH5-5,99.52
+      1 bacterium symbiont of Bactrocera correcta,92.73
+      1 beta proteobacterium Gu1-7,97.54
+      1 rumen bacterium NK4A78,94.54
+      1 rumen bacterium NK4A78,95.15
+      1 rumen bacterium R-21,90.06
+      1 unidentified bacterium,94.42
+      1 unidentified bacterium,99.12
+      1 unidentified bacterium,99.12
+      1 unidentified bacterium,99.55
+      2 Acidovorax sp.,100.00
+      2 Acidovorax sp.,100.00
+      2 Acidovorax sp.,100.00
+      2 Acidovorax sp.,100.00
+      2 Acidovorax sp.,100.00
+      2 Acidovorax sp.,100.00
+      2 Acidovorax sp.,100.00
+      2 Acidovorax sp.,100.00
+      2 Acidovorax sp.,100.00
+      2 Acidovorax sp.,100.00
+      2 Acidovorax sp.,100.00
+      2 Acidovorax sp.,100.00
+      2 Acidovorax sp.,99.55
+      2 Acinetobacter indicus,100.00
+      2 Acinetobacter junii,100.00
+      2 Acinetobacter junii,100.00
+      2 Acinetobacter junii,100.00
+      2 Acinetobacter junii,100.00
+      2 Acinetobacter junii,99.47
+      2 Acinetobacter junii,99.55
+      2 Aquitalea sp. KJ011,94.47
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Bartonella sp. JB63,99.10
+      2 Bartonella sp. JB63,99.10
+      2 Chionanthus retusus,100.00
+      2 Chionanthus retusus,100.00
+      2 Chionanthus retusus,100.00
+      2 Chionanthus retusus,100.00
+      2 Chionanthus retusus,99.44
+      2 Chionanthus retusus,99.55
+      2 Chionanthus retusus,99.55
+      2 Cloacibacterium normanense,100.00
+      2 Propionibacterium acnes subsp. acnes,100.00
+      2 Propionibacterium granulosum,100.00
+      2 Propionibacterium granulosum,100.00
+      2 Prunus cerasoides,99.10
+      3 Acidovorax sp.,100.00
+      3 Acidovorax sp.,100.00
+      3 Aquitalea sp. KJ011,94.84
+      4 Acidovorax sp.,100.00
+      4 Chionanthus retusus,100.00

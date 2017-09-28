@@ -1,0 +1,801 @@
+      1 Acidobacteria bacterium UCL-109,91.53
+      1 Actinomadura sp. ATC26,98.32
+      1 Actinomycetales bacterium,97.02
+      1 Agrococcus baldri,99.55
+      1 Agrococcus baldri,99.55
+      1 Alphaproteobacteria bacterium,95.88
+      1 Alphaproteobacteria bacterium,95.88
+      1 Alphaproteobacteria bacterium,95.88
+      1 Alphaproteobacteria bacterium,96.91
+      1 Alphaproteobacteria bacterium,96.91
+      1 Alphaproteobacteria bacterium,96.91
+      1 Aquabacterium sp. P-111,97.78
+      1 Aquitalea sp. KJ011,92.11
+      1 Aquitalea sp. KJ011,93.12
+      1 Aquitalea sp. KJ011,93.55
+      1 Aquitalea sp. KJ011,93.58
+      1 Aquitalea sp. KJ011,93.58
+      1 Aquitalea sp. KJ011,93.68
+      1 Aquitalea sp. KJ011,93.90
+      1 Aquitalea sp. KJ011,93.90
+      1 Aquitalea sp. KJ011,93.90
+      1 Aquitalea sp. KJ011,93.90
+      1 Aquitalea sp. KJ011,93.90
+      1 Aquitalea sp. KJ011,93.90
+      1 Aquitalea sp. KJ011,93.90
+      1 Aquitalea sp. KJ011,93.90
+      1 Aquitalea sp. KJ011,93.93
+      1 Aquitalea sp. KJ011,93.98
+      1 Aquitalea sp. KJ011,94.01
+      1 Aquitalea sp. KJ011,94.01
+      1 Aquitalea sp. KJ011,94.04
+      1 Aquitalea sp. KJ011,94.04
+      1 Aquitalea sp. KJ011,94.04
+      1 Aquitalea sp. KJ011,94.09
+      1 Aquitalea sp. KJ011,94.18
+      1 Aquitalea sp. KJ011,94.18
+      1 Aquitalea sp. KJ011,94.29
+      1 Aquitalea sp. KJ011,94.34
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.37
+      1 Aquitalea sp. KJ011,94.39
+      1 Aquitalea sp. KJ011,94.39
+      1 Aquitalea sp. KJ011,94.39
+      1 Aquitalea sp. KJ011,94.39
+      1 Aquitalea sp. KJ011,94.39
+      1 Aquitalea sp. KJ011,94.39
+      1 Aquitalea sp. KJ011,94.39
+      1 Aquitalea sp. KJ011,94.39
+      1 Aquitalea sp. KJ011,94.39
+      1 Aquitalea sp. KJ011,94.39
+      1 Aquitalea sp. KJ011,94.41
+      1 Aquitalea sp. KJ011,94.42
+      1 Aquitalea sp. KJ011,94.47
+      1 Aquitalea sp. KJ011,94.47
+      1 Aquitalea sp. KJ011,94.47
+      1 Aquitalea sp. KJ011,94.47
+      1 Aquitalea sp. KJ011,94.47
+      1 Aquitalea sp. KJ011,94.47
+      1 Aquitalea sp. KJ011,94.71
+      1 Aquitalea sp. KJ011,94.81
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.84
+      1 Aquitalea sp. KJ011,94.86
+      1 Aquitalea sp. KJ011,94.86
+      1 Aquitalea sp. KJ011,94.88
+      1 Aquitalea sp. KJ011,95.31
+      1 Aquitalea sp. KJ011,95.31
+      1 Arthrobacter bergerei,100.00
+      1 Arthrobacter bergerei,100.00
+      1 Arthrobacter bergerei,100.00
+      1 Arthrobacter bergerei,99.54
+      1 Arthrobacter sp. 5,100.00
+      1 Arthrobacter sp.,99.55
+      1 Arthrobacter sp.,99.59
+      1 Arthrobacter sp.,99.59
+      1 Arthrobacter sp.,99.59
+      1 Atopostipes sp. oral taxon B55,99.49
+      1 Bacillus sp. IDA4715,97.80
+      1 Bacillus sp. IDA4715,97.80
+      1 Bacillus sp. IDA4921,98.65
+      1 Bacteroidetes bacterium RL-C,92.44
+      1 Beggiatoa sp. 'Guadeloupe FWI',92.86
+      1 Brachybacterium paraconglomeratum,99.57
+      1 Brachybacterium sp. BN5,100.00
+      1 Brachybacterium sp. BN5,100.00
+      1 Brachybacterium sp. CH-KOV3,100.00
+      1 Bradyrhizobium sp.,100.00
+      1 Bradyrhizobium sp.,99.56
+      1 Brevibacterium linens,100.00
+      1 Brevibacterium sp.,97.71
+      1 Brevibacterium sp.,97.99
+      1 Brevibacterium sp.,97.99
+      1 Brevibacterium sp.,97.99
+      1 Brevibacterium sp.,97.99
+      1 Brevundimonas sp. EM171,99.56
+      1 Cardiobacterium sp. feline oral taxon 346,90.76
+      1 Cardiobacterium sp. feline oral taxon 346,90.76
+      1 Cardiobacterium sp. feline oral taxon 346,90.76
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Cardiobacterium sp. feline oral taxon 346,91.67
+      1 Cardiobacterium sp. feline oral taxon 346,92.44
+      1 Cardiobacterium sp. feline oral taxon 346,92.44
+      1 Clostridiales bacterium T55CA4,100.00
+      1 Clostridiales bacterium T55CA4,99.54
+      1 Clostridiales bacterium T55CA4,99.54
+      1 Clostridium sp. 37hoe,96.94
+      1 Corynebacterium sp. CH82b_3T,95.18
+      1 Corynebacterium sp. OT4,100.00
+      1 Corynebacterium sp. OT4,100.00
+      1 Corynebacterium sp. YIM 101505,98.28
+      1 Corynebacterium sp. YIM 101505,99.57
+      1 Corynebacterium tuberculostearicum,99.15
+      1 Denitratisoma oestradiolicum,90.74
+      1 Enterobacteriaceae bacterium,100.00
+      1 Enterococcus sp.,99.03
+      1 Firmicutes bacterium YJF1-16,96.38
+      1 Gordonia hydrophobica,97.84
+      1 Gordonia hydrophobica,98.23
+      1 Gordonia hydrophobica,98.24
+      1 Gordonia hydrophobica,98.25
+      1 Gulbenkiania sp.,91.49
+      1 Gulbenkiania sp.,92.02
+      1 Gulbenkiania sp.,92.06
+      1 Gulbenkiania sp.,92.06
+      1 Gulbenkiania sp.,93.37
+      1 Gulbenkiania sp.,93.53
+      1 Gulbenkiania sp.,93.62
+      1 Gulbenkiania sp.,93.62
+      1 Gulbenkiania sp.,93.65
+      1 Gulbenkiania sp.,93.65
+      1 Gulbenkiania sp.,93.65
+      1 Gulbenkiania sp.,93.65
+      1 Gulbenkiania sp.,93.65
+      1 Gulbenkiania sp.,93.85
+      1 Gulbenkiania sp.,93.88
+      1 Gulbenkiania sp.,94.09
+      1 Gulbenkiania sp.,94.12
+      1 Gulbenkiania sp.,94.12
+      1 Gulbenkiania sp.,94.15
+      1 Gulbenkiania sp.,94.15
+      1 Gulbenkiania sp.,94.15
+      1 Gulbenkiania sp.,94.15
+      1 Gulbenkiania sp.,94.15
+      1 Gulbenkiania sp.,94.15
+      1 Gulbenkiania sp.,94.15
+      1 Gulbenkiania sp.,94.18
+      1 Gulbenkiania sp.,94.18
+      1 Gulbenkiania sp.,94.18
+      1 Gulbenkiania sp.,94.18
+      1 Gulbenkiania sp.,94.18
+      1 Gulbenkiania sp.,94.18
+      1 Gulbenkiania sp.,94.18
+      1 Gulbenkiania sp.,94.18
+      1 Gulbenkiania sp.,94.18
+      1 Gulbenkiania sp.,94.18
+      1 Gulbenkiania sp.,94.18
+      1 Gulbenkiania sp.,94.18
+      1 Gulbenkiania sp.,94.18
+      1 Gulbenkiania sp.,94.18
+      1 Gulbenkiania sp.,94.18
+      1 Gulbenkiania sp.,94.18
+      1 Gulbenkiania sp.,94.18
+      1 Gulbenkiania sp.,94.18
+      1 Gulbenkiania sp.,94.18
+      1 Gulbenkiania sp.,94.18
+      1 Gulbenkiania sp.,94.18
+      1 Gulbenkiania sp.,94.24
+      1 Gulbenkiania sp.,94.36
+      1 Gulbenkiania sp.,94.47
+      1 Gulbenkiania sp.,94.48
+      1 Gulbenkiania sp.,94.50
+      1 Gulbenkiania sp.,94.51
+      1 Gulbenkiania sp.,94.51
+      1 Gulbenkiania sp.,94.71
+      1 Herbaspirillum sp.,99.53
+      1 Herbaspirillum sp.,99.53
+      1 Herbaspirillum sp.,99.53
+      1 Hyphomonas sp. MOLA 55,100.00
+      1 Intrasporangiaceae bacterium LCK-2009.8,99.07
+      1 Intrasporangiaceae bacterium LCK-2009.8,99.07
+      1 Janibacter sp.,96.43
+      1 Janibacter sp.,97.84
+      1 Janibacter sp.,98.70
+      1 Janibacter sp.,98.98
+      1 Janibacter sp.,99.57
+      1 Knoellia sp. BA4(2011),95.39
+      1 Luteimonas sp. UBH13,100.00
+      1 Marmoricola sp. S20-100,95.52
+      1 Marmoricola sp. S20-100,95.98
+      1 Marmoricola sp. S20-100,96.88
+      1 Marmoricola sp. S20-100,96.88
+      1 Marmoricola sp. S20-100,96.89
+      1 Marmoricola sp. S20-100,96.89
+      1 Microbacterium phyllosphaerae,99.09
+      1 Microbacterium phyllosphaerae,99.55
+      1 Microbacterium phyllosphaerae,99.55
+      1 Micrococcus sp.,100.00
+      1 Microgenomates (Roizmanbacteria) bacterium GW2011_GWC2_37_13,80.43
+      1 Micromonospora sp. WMMB 777,98.39
+      1 Myxococcales bacterium L1979,84.02
+      1 Nocardioides albertani,98.66
+      1 Nocardioides albertani,98.67
+      1 Nocardioides jensenii,97.33
+      1 Nocardioides sp. P3693,98.17
+      1 Nocardioides sp. P3693,98.17
+      1 Nocardioides sp.,89.39
+      1 Nubsella sp. EsD18,88.09
+      1 Oceanicola sp. YCWB25-2,96.00
+      1 Paludibacterium yongneupense,94.01
+      1 Pedobacter boryungensis,99.53
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium sp. NTS31307302,94.44
+      1 Pseudomonas gessardii,100.00
+      1 Pseudomonas gessardii,99.55
+      1 Pseudomonas sp.,100.00
+      1 Pseudomonas sp.,100.00
+      1 Rhizobium cellulosilyticum,100.00
+      1 Rubrobacter xylanophilus,99.44
+      1 Solemya pervernicosa gill symbiont,81.31
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.62
+      1 Solemya pervernicosa gill symbiont,86.08
+      1 Solemya pervernicosa gill symbiont,86.08
+      1 Solemya pervernicosa gill symbiont,86.08
+      1 Solemya pervernicosa gill symbiont,86.08
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.25
+      1 Solemya pervernicosa gill symbiont,86.79
+      1 Solemya pervernicosa gill symbiont,86.79
+      1 Sorangiineae bacterium HB-1,86.96
+      1 Sorangiineae bacterium MSr9521,92.41
+      1 Sphingomonas sp. Ume53,99.16
+      1 Sphingorhabdus sp. WM51,96.86
+      1 Sporosarcina sp. 106,97.16
+      1 Sporosarcina sp.,97.04
+      1 Staphylococcus sp.,100.00
+      1 Staphylococcus sp.,100.00
+      1 Staphylococcus sp.,99.44
+      1 Staphylococcus succinus subsp. casei,100.00
+      1 Staphylococcus succinus subsp. casei,100.00
+      1 Staphylococcus succinus subsp. casei,100.00
+      1 Staphylococcus succinus subsp. casei,100.00
+      1 Staphylococcus succinus subsp. casei,99.55
+      1 Staphylococcus succinus subsp. succinus,100.00
+      1 Staphylococcus succinus subsp. succinus,100.00
+      1 Staphylococcus succinus subsp. succinus,100.00
+      1 Staphylococcus succinus subsp. succinus,100.00
+      1 Staphylococcus succinus subsp. succinus,100.00
+      1 Staphylococcus succinus subsp. succinus,98.70
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,98.70
+      1 Staphylococcus succinus,99.14
+      1 Staphylococcus succinus,99.14
+      1 Staphylococcus succinus,99.46
+      1 Staphylococcus succinus,99.48
+      1 Staphylococcus succinus,99.55
+      1 Staphylococcus succinus,99.57
+      1 Staphylococcus succinus,99.57
+      1 Staphylococcus succinus,99.57
+      1 Staphylococcus succinus,99.57
+      1 Staphylococcus succinus,99.57
+      1 Staphylococcus succinus,99.57
+      1 Staphylococcus succinus,99.57
+      1 Staphylococcus succinus,99.57
+      1 Staphylococcus succinus,99.57
+      1 Staphylococcus succinus,99.57
+      1 Staphylococcus succinus,99.57
+      1 Staphylococcus succinus,99.57
+      1 Staphylococcus succinus,99.59
+      1 Staphylococcus succinus,99.59
+      1 Staphylococcus succinus,99.59
+      1 Streptococcus mitis,100.00
+      1 Streptococcus pneumoniae,99.53
+      1 Streptomyces sp. 14CM001,99.54
+      1 Streptomyces sp. 14CM001,99.54
+      1 Streptomyces sp.,99.55
+      1 Vogesella perlucida,91.41
+      1 Zoogloea sp. EMB 17,97.06
+      1 alpha proteobacterium HIN3,95.92
+      1 alpha proteobacterium HIN4,95.61
+      1 alpha proteobacterium HIN4,96.04
+      1 bacterium AC2028,94.02
+      1 bacterium AC2028,94.44
+      1 bacterium Miz1,99.55
+      1 bacterium NLAE-zl-C461,99.57
+      1 bacterium endosymbiont of Otiorhynchus salicicola,99.60
+      1 unidentified bacterium,100.00
+      1 unidentified bacterium,89.33
+      1 unidentified bacterium,89.47
+      1 unidentified bacterium,89.47
+      1 unidentified bacterium,89.47
+      1 unidentified bacterium,90.00
+      1 unidentified bacterium,91.74
+      1 unidentified bacterium,93.33
+      1 unidentified bacterium,93.75
+      1 unidentified bacterium,95.28
+      1 unidentified bacterium,96.24
+      1 unidentified bacterium,97.25
+      1 unidentified bacterium,97.42
+      1 unidentified bacterium,97.45
+      1 unidentified bacterium,97.51
+      1 unidentified bacterium,98.22
+      1 unidentified bacterium,98.58
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Aquitalea sp. KJ011,94.84
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Staphylococcus succinus subsp. casei,100.00
+      2 Staphylococcus succinus,100.00
+      3 Aquitalea sp. KJ011,94.84
+      3 Aquitalea sp. KJ011,94.84
+      3 Aquitalea sp. KJ011,94.84
+      3 Aquitalea sp. KJ011,94.84
+      3 Aquitalea sp. KJ011,94.84
+      3 Aquitalea sp. KJ011,94.84
+      3 Aquitalea sp. KJ011,94.84
+      3 Aquitalea sp. KJ011,94.84
+      3 Aquitalea sp. KJ011,94.84
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      4 Aquitalea sp. KJ011,94.84
+      4 Solemya pervernicosa gill symbiont,86.16
+      4 Solemya pervernicosa gill symbiont,86.16
+      4 Solemya pervernicosa gill symbiont,86.16
+      4 Solemya pervernicosa gill symbiont,86.16
+      4 Solemya pervernicosa gill symbiont,86.16
+      4 Streptococcus mitis,100.00
+      5 Aquitalea sp. KJ011,94.84
+      5 Aquitalea sp. KJ011,94.84
+      5 Solemya pervernicosa gill symbiont,86.16

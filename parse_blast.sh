@@ -2,8 +2,18 @@
 
 # Chelsea Noack
 # cnoackj@gmail.com
-# Created On: September 27, 2017; Last Modified: September 27, 2017
+# Created On: September 27, 2017; Last Modified: September 28, 2017
 
 # The following will give us the first column for each sequence with a for loop.
+# First we will make a seperate subdirectory for the parsed sequences
+echo "Making directory for parsed sequences"
+mkdir output/parsed
+echo "Done!"
 
-cut -d, -f1,4 output/blast/ERR1942280.trim.blast_results.csv | uniq -c | sort -g > output/blast/testparsedfile.txt
+# Now we parse the data by name and % similarity
+echo "Parsing data..."
+for file in output/blast/*.trim.blast_results.csv
+do
+	cut -d, -f1,4 $file | uniq -c | sort -g > output/$(basename -s .trim.blast_results.csv $file).parsed_blast.txt
+done
+echo "Done!"

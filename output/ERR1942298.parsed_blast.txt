@@ -1,0 +1,538 @@
+      1 Acetatifactor muris,88.73
+      1 Acetatifactor muris,92.79
+      1 Acetatifactor muris,93.33
+      1 Acetatifactor muris,93.78
+      1 Acetatifactor muris,93.78
+      1 Acetatifactor muris,93.78
+      1 Acetatifactor muris,94.22
+      1 Acetatifactor muris,94.22
+      1 Acetatifactor muris,94.22
+      1 Acetatifactor muris,94.22
+      1 Acetatifactor muris,94.22
+      1 Acetatifactor muris,94.22
+      1 Acidobacteria bacterium UCL-035,99.59
+      1 Acidobacteria bacterium UCL-110,100.00
+      1 Adhaeribacter sp. HY02,93.55
+      1 Alistipes putredinis,91.01
+      1 Alistipes shahii,92.00
+      1 Alistipes shahii,93.47
+      1 Alistipes shahii,93.47
+      1 Alkaliphilus sp. LacT,83.33
+      1 Amnibacterium sp.,100.00
+      1 Amnibacterium sp.,100.00
+      1 Anaeroplasma abactoclasticum,83.98
+      1 Anaeroplasma abactoclasticum,84.05
+      1 Anaeroplasma abactoclasticum,84.05
+      1 Anaeroplasma abactoclasticum,84.05
+      1 Anaeroplasma abactoclasticum,84.05
+      1 Anaeroplasma abactoclasticum,84.05
+      1 Anaeroplasma abactoclasticum,84.05
+      1 Anaeroplasma abactoclasticum,84.12
+      1 Anaeroplasma abactoclasticum,84.19
+      1 Anaeroplasma abactoclasticum,84.26
+      1 Anaeroplasma abactoclasticum,84.39
+      1 Anaeroplasma abactoclasticum,84.45
+      1 Anaeroplasma abactoclasticum,84.74
+      1 Anaeroplasma abactoclasticum,85.10
+      1 Anaerostipes hadrus,90.72
+      1 Anaerostipes hadrus,91.56
+      1 Anaerostipes sp. 992a,94.09
+      1 Anaerostipes sp. 992a,94.09
+      1 Anaerotruncus sp. Marseille-P2769,88.41
+      1 Anaplasma phagocytophilum,96.00
+      1 Arthrobacter sp. 4J27,100.00
+      1 Arthrobacter sp. CPCC203934,100.00
+      1 Arthrobacter sp.,99.55
+      1 Arthrobacter sp.,99.58
+      1 Bacillus humi,81.85
+      1 Bacillus schlegelii,90.91
+      1 Bacillus schlegelii,90.91
+      1 Bacillus sp. 4P_D2_7CS2014,96.52
+      1 Bacteroides clarus YIT 12056,91.67
+      1 Bacteroides clarus YIT 12056,91.74
+      1 Bacteroides clarus YIT 12056,91.74
+      1 Bacteroides clarus YIT 12056,92.12
+      1 Bacteroides clarus YIT 12056,92.15
+      1 Bacteroides clarus YIT 12056,92.15
+      1 Bacteroides clarus YIT 12056,92.15
+      1 Bacteroides clarus YIT 12056,92.15
+      1 Bacteroides clarus YIT 12056,92.15
+      1 Bacteroides clarus YIT 12056,92.15
+      1 Bacteroides clarus YIT 12056,92.15
+      1 Bacteroides clarus YIT 12056,92.15
+      1 Bacteroides finegoldii,91.46
+      1 Bacteroides gallinarum,92.08
+      1 Bacteroides sartorii JCM 16497,90.75
+      1 Bacteroides sartorii JCM 16497,91.14
+      1 Bacteroides sartorii JCM 17136 = DSM 21941,90.35
+      1 Bacteroides sp. DSM 12148,89.17
+      1 Bacteroides sp. DSM 12148,89.54
+      1 Bacteroides sp. S427,91.53
+      1 Bacteroides sp. S427,91.53
+      1 Bacteroides sp. S427,92.00
+      1 Bacteroides sp. S427,92.53
+      1 Bacteroides sp. TP-5,91.32
+      1 Bacteroides sp. W20,91.15
+      1 Bacteroides sp. W20,91.15
+      1 Bacteroides sp. W20,91.48
+      1 Bacteroides sp. W20,91.53
+      1 Bacteroides sp. W20,92.08
+      1 Bacteroides sp. W20,92.08
+      1 Bacteroides stercoris ATCC 43183,91.93
+      1 Bacteroides uniformis,86.85
+      1 Bacteroides uniformis,87.25
+      1 Bacteroides vulgatus,91.29
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.53
+      1 Blastococcus sp. BMG 817,100.00
+      1 Blastococcus sp. BMG 817,100.00
+      1 Blastococcus sp. BMG 817,96.76
+      1 Blastococcus sp. BMG 823,100.00
+      1 Blautia coccoides,93.69
+      1 Blautia coccoides,94.01
+      1 Blautia coccoides,94.34
+      1 Blautia coccoides,95.79
+      1 Blautia schinkii,92.76
+      1 Blautia schinkii,93.52
+      1 Blautia sp. Marseille-P3387,95.48
+      1 Blautia sp. Marseille-P3441,93.33
+      1 Blautia sp. Marseille-P3441,95.26
+      1 Blautia wexlerae,91.91
+      1 Bradyrhizobium sp.,99.55
+      1 Butyricicoccus sp. BB10,82.41
+      1 Butyricicoccus sp. BB10,89.32
+      1 Butyricicoccus sp. BB10,91.12
+      1 Butyricicoccus sp. BB10,91.90
+      1 Butyricicoccus sp. BB10,92.05
+      1 Chitinophagaceae bacterium StRD338,95.85
+      1 Chitinophagaceae bacterium StRD338,96.83
+      1 Chitinophagaceae bacterium StRD338,96.86
+      1 Clostridiaceae bacterium BARN-424-CC-10,92.31
+      1 Clostridiaceae bacterium DJF_VP39k1,96.77
+      1 Clostridiaceae bacterium DJF_VP39k1,98.11
+      1 Clostridiaceae bacterium DJF_VP39k1,98.12
+      1 Clostridiaceae bacterium DJF_VP39k1,98.17
+      1 Clostridiaceae bacterium DJF_VP39k1,99.10
+      1 Clostridiales bacterium 'ARUP UnID 349',84.96
+      1 Clostridiales bacterium 14,91.32
+      1 Clostridiales bacterium 21-4c,90.95
+      1 Clostridiales bacterium 24-4c,91.26
+      1 Clostridiales bacterium 24-4c,96.45
+      1 Clostridiales bacterium 30-4c,92.66
+      1 Clostridiales bacterium 30-4c,94.82
+      1 Clostridiales bacterium 30-4c,97.35
+      1 Clostridiales bacterium 30-4c,97.63
+      1 Clostridiales bacterium 30-4c,97.91
+      1 Clostridiales bacterium 30-4c,97.95
+      1 Clostridiales bacterium 30-4c,98.06
+      1 Clostridiales bacterium 30-4c,98.08
+      1 Clostridiales bacterium 30-4c,98.55
+      1 Clostridiales bacterium 30-4c,99.03
+      1 Clostridiales bacterium 30-4c,99.03
+      1 Clostridiales bacterium CIEAF 020,95.67
+      1 Clostridiales bacterium CIEAF 020,95.98
+      1 Clostridiales bacterium CIEAF 021,88.53
+      1 Clostridiales bacterium CIEAF 021,88.53
+      1 Clostridiales bacterium CIEAF 021,89.15
+      1 Clostridiales bacterium CIEAF 021,89.30
+      1 Clostridiales bacterium CIEAF 021,89.34
+      1 Clostridiales bacterium CIEAF 021,93.06
+      1 Clostridiales bacterium CIEAF 022,87.57
+      1 Clostridiales bacterium CIEAF 022,88.14
+      1 Clostridiales bacterium CIEAF 029,90.72
+      1 Clostridiales bacterium CIEAF 029,90.72
+      1 Clostridiales bacterium CIEAF 029,94.04
+      1 Clostridiales bacterium CIEAF 029,95.00
+      1 Clostridiales bacterium CIEAF 029,95.02
+      1 Clostridiales bacterium JN18_A89_K*,86.61
+      1 Clostridiales bacterium JN18_A89_K*,87.56
+      1 Clostridiales bacterium JN18_A89_K*,87.61
+      1 Clostridiales bacterium Marseille-P2846,90.50
+      1 Clostridiales bacterium Marseille-P2846,90.65
+      1 Clostridiales bacterium Marseille-P2846,91.67
+      1 Clostridiales bacterium Marseille-P2846,91.86
+      1 Clostridiales bacterium Marseille-P2846,92.59
+      1 Clostridiales bacterium Marseille-P2846,92.96
+      1 Clostridiales bacterium canine oral taxon 123,91.88
+      1 Clostridiales bacterium feline oral taxon 019,84.97
+      1 Clostridiales bacterium feline oral taxon 019,84.97
+      1 Clostridiales bacterium oral taxon 085,86.80
+      1 Clostridiales bacterium oral taxon 085,86.83
+      1 Clostridiales bacterium oral taxon 085,92.27
+      1 Clostridiales bacterium oral taxon 085,92.79
+      1 Clostridiales bacterium oral taxon C20,96.40
+      1 Clostridiales bacterium oral taxon F32,89.95
+      1 Clostridiales bacterium oral taxon F32,91.24
+      1 Clostridiales bacterium oral taxon F32,93.24
+      1 Clostridium aminophilum,91.63
+      1 Clostridium aminophilum,92.57
+      1 Clostridium clostridioforme,92.48
+      1 Clostridium clostridioforme,94.44
+      1 Clostridium methylpentosum;Clostridium methylpentosum DSM 5476,89.45
+      1 Clostridium methylpentosum;Clostridium methylpentosum DSM 5476,90.70
+      1 Clostridium methylpentosum;Clostridium methylpentosum DSM 5476,91.74
+      1 Clostridium piliforme,84.21
+      1 Clostridium piliforme,84.21
+      1 Clostridium piliforme,84.21
+      1 Clostridium piliforme,84.21
+      1 Clostridium sp. 619,93.06
+      1 Clostridium sp. 619,93.09
+      1 Clostridium sp. 619,93.72
+      1 Clostridium sp. 619,94.20
+      1 Clostridium sp. 619,94.20
+      1 Clostridium sp. ARIAKE436,93.49
+      1 Clostridium sp. ARIAKE994,88.78
+      1 Clostridium sp. ARIAKE994,89.29
+      1 Clostridium sp. Clone-17,93.43
+      1 Clostridium sp. Clone-47,93.24
+      1 Clostridium sp. Clone-47,93.30
+      1 Clostridium sp. Clone-47,93.33
+      1 Clostridium sp. Clone-47,93.33
+      1 Clostridium sp. Clone-47,93.33
+      1 Clostridium sp. Clone-47,93.36
+      1 Clostridium sp. Culture Jar-13,92.75
+      1 Clostridium sp. Culture Jar-13,93.61
+      1 Clostridium sp. Culture Jar-13,93.61
+      1 Clostridium sp. Culture-27,91.10
+      1 Clostridium sp. Culture-27,91.19
+      1 Clostridium sp. MC_40,88.26
+      1 Clostridium sp. Marseille-P2776,97.57
+      1 Clostridium sp. NML 04A032,93.18
+      1 Clostridium sp. WSC-9-7,95.76
+      1 Clostridium sp. YIT 12069,83.26
+      1 Desulfitobacterium sp. PR,95.17
+      1 Eggerthellaceae bacterium,86.44
+      1 Eggerthellaceae bacterium,86.44
+      1 Eisenbergiella tayi,92.69
+      1 Enterococcus hirae,85.33
+      1 Firmicutes bacterium M53,92.67
+      1 Firmicutes bacterium M53,92.76
+      1 Firmicutes bacterium M53,92.76
+      1 Firmicutes bacterium M53,92.89
+      1 Firmicutes bacterium M53,93.16
+      1 Firmicutes bacterium M53,93.24
+      1 Firmicutes bacterium M53,94.20
+      1 Firmicutes bacterium M53,94.21
+      1 Firmicutes bacterium M53,95.95
+      1 Flavobacterium sp. JD6(2011),98.96
+      1 Flavonifractor plautii,93.41
+      1 Flavonifractor plautii,94.47
+      1 Friedmanniella sp.,93.12
+      1 Geosporobacter sp. LAM1220,84.07
+      1 Gram-negative bacterium cL10-2b-4,83.90
+      1 Gram-negative bacterium cL10-2b-4,86.55
+      1 Haemonchus placei,93.51
+      1 Herbaspirillum sp. 5410S-62,99.53
+      1 Hydrogenophilus hirschii,97.49
+      1 Hydrogenophilus hirschii,97.52
+      1 Hydrogenophilus hirschii,97.52
+      1 Hymenobacter sp. XF-6R,99.05
+      1 Hymenobacter sp. XF-6R,99.13
+      1 Hymenobacter sp.,98.22
+      1 Intestinimonas butyriciproducens,85.71
+      1 Intestinimonas butyriciproducens,86.29
+      1 Intestinimonas butyriciproducens,88.57
+      1 Intestinimonas butyriciproducens,89.05
+      1 Intestinimonas butyriciproducens,89.15
+      1 Intestinimonas butyriciproducens,89.39
+      1 Intestinimonas butyriciproducens,89.62
+      1 Intestinimonas butyriciproducens,89.90
+      1 Intestinimonas sp. GM5,90.61
+      1 Lachnospiraceae bacterium 19gly4,91.89
+      1 Lachnospiraceae bacterium 539,95.98
+      1 Lachnospiraceae bacterium 615,89.30
+      1 Lachnospiraceae bacterium 615,89.36
+      1 Lachnospiraceae bacterium 615,89.47
+      1 Lachnospiraceae bacterium 615,89.47
+      1 Lachnospiraceae bacterium 615,89.47
+      1 Lachnospiraceae bacterium 615,90.48
+      1 Lachnospiraceae bacterium A4,88.29
+      1 Lachnospiraceae bacterium BLS21,96.97
+      1 Lachnospiraceae bacterium BLS21,97.57
+      1 Lachnospiraceae bacterium DJF_CR52,92.45
+      1 Lachnospiraceae bacterium DJF_VP30,95.07
+      1 Lachnospiraceae bacterium DJF_VP30,95.10
+      1 Lachnospiraceae bacterium DJF_VP30,96.38
+      1 Lachnospiraceae bacterium DJF_VP30,97.16
+      1 Lachnospiraceae bacterium DJF_VP30,97.17
+      1 Lachnospiraceae bacterium DW12,95.35
+      1 Lachnospiraceae bacterium DW44,89.38
+      1 Lachnospiraceae bacterium DW52,92.20
+      1 Lachnospiraceae bacterium DW52,92.63
+      1 Lachnospiraceae bacterium DW70,91.62
+      1 Lachnospiraceae bacterium DW70,92.04
+      1 Lachnospiraceae bacterium DW70,92.89
+      1 Lachnospiraceae bacterium G11,90.96
+      1 Lachnospiraceae bacterium G11,92.11
+      1 Lachnospiraceae bacterium G11,92.31
+      1 Lachnospiraceae bacterium G11,92.55
+      1 Lachnospiraceae bacterium G11,92.59
+      1 Lachnospiraceae bacterium G11,92.63
+      1 Lachnospiraceae bacterium G11,92.67
+      1 Lachnospiraceae bacterium G11,93.18
+      1 Lachnospiraceae bacterium G11,95.31
+      1 Lachnospiraceae bacterium G11,95.37
+      1 Lachnospiraceae bacterium G11,95.81
+      1 Lachnospiraceae bacterium G11,96.00
+      1 Lachnospiraceae bacterium G11,96.04
+      1 Lachnospiraceae bacterium KNHs209,90.52
+      1 Lachnospiraceae bacterium P43,88.13
+      1 Lachnospiraceae bacterium RM44,92.42
+      1 Lachnospiraceae bacterium SRB530,90.67
+      1 Lachnospiraceae bacterium canine oral taxon 024,87.37
+      1 Lachnospiraceae bacterium canine oral taxon 399,83.82
+      1 Lactobacillales bacterium DJF_B280,95.48
+      1 Lactobacillales bacterium DJF_B280,95.93
+      1 Lactobacillales bacterium DJF_B280,96.35
+      1 Lactobacillales bacterium HY-36-1,88.79
+      1 Lactobacillales bacterium HY-36-1,88.89
+      1 Lactobacillales bacterium HY-36-1,90.28
+      1 Lactobacillales bacterium HY-36-1,90.57
+      1 Lactobacillales bacterium HY-36-1,91.04
+      1 Lactobacillales bacterium HY-36-1,91.04
+      1 Lactobacillales bacterium HY-36-1,91.07
+      1 Lactobacillales bacterium HY-36-1,91.12
+      1 Lactobacillales bacterium HY-36-1,91.44
+      1 Lactobacillales bacterium HY-36-1,91.67
+      1 Lactobacillales bacterium HY-36-1,91.83
+      1 Lactobacillales bacterium HY-36-1,91.83
+      1 Lactobacillus animalis,100.00
+      1 Lactobacillus animalis,100.00
+      1 Lactobacillus animalis,100.00
+      1 Lactobacillus floricola,81.59
+      1 Lagerstroemia indica,82.80
+      1 Lagerstroemia indica,99.10
+      1 Marmoricola sp.,99.09
+      1 Massilia sp. 8B-2,100.00
+      1 Massilia sp. 8B-2,100.00
+      1 Massilia sp. 8B-2,100.00
+      1 Massilia sp. B055-25,97.65
+      1 Massilia sp.,99.07
+      1 Microbacteriaceae bacterium N4_97_1,100.00
+      1 Microbacterium sp. EP_L_63,99.57
+      1 Microvirga sp. 7_57,100.00
+      1 Mycobacterium sp. DWMJ-1839A1,90.95
+      1 Nocardioides sp. HSD06,95.54
+      1 Nocardioides sp. RKVR_SS5,94.64
+      1 Nocardioides sp. RKVR_SS5,95.09
+      1 Odoribacter sp.,86.82
+      1 Oscillibacter sp. Marseille-P2778,92.31
+      1 Oscillospiraceae bacterium AIP232.11,89.45
+      1 Oscillospiraceae bacterium Marseille-P2840,87.04
+      1 Oscillospiraceae bacterium Marseille-P2840,87.85
+      1 Oscillospiraceae bacterium Marseille-P2840,87.85
+      1 Oscillospiraceae bacterium Marseille-P2840,88.02
+      1 Oscillospiraceae bacterium Marseille-P2840,88.02
+      1 Oscillospiraceae bacterium Marseille-P2840,88.07
+      1 Oscillospiraceae bacterium Marseille-P2840,88.43
+      1 Oscillospiraceae bacterium Marseille-P2840,88.48
+      1 Oscillospiraceae bacterium Marseille-P2840,92.08
+      1 Oscillospiraceae bacterium Marseille-P2840,92.15
+      1 Oscillospiraceae bacterium Marseille-P2840,92.69
+      1 Paenibacillus chondroitinus,92.37
+      1 Paracoccus sp. C-17,99.58
+      1 Paracoccus sp. S3,100.00
+      1 Paracoccus sp. S3,100.00
+      1 Paracraurococcus sp. AN120656,99.55
+      1 Pasteurellaceae bacterium R46,94.39
+      1 Pasteurellaceae bacterium R46,94.95
+      1 Pasteurellaceae bacterium canine oral taxon 271,97.29
+      1 Pasteurellaceae bacterium canine oral taxon 271,97.29
+      1 Pedobacter duraquae,100.00
+      1 Pedobacter sp.,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,98.88
+      1 Pinus oocarpa,99.54
+      1 Pinus oocarpa,99.55
+      1 Pinus oocarpa,99.55
+      1 Porphyromonas endodontalis,93.81
+      1 Prevotella melaninogenica,86.67
+      1 Prevotella melaninogenica,86.78
+      1 Propionibacteriaceae sp. Pao16,98.62
+      1 Propionibacteriaceae sp. Pao16,98.62
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Pseudomonas gessardii,100.00
+      1 Pseudomonas sp.,100.00
+      1 Raoultibacter sp. Marseille-P3277T,83.49
+      1 Rhodococcus sp. RG-14,100.00
+      1 Rhodothermaceae bacterium RA,97.32
+      1 Roseburia sp. 1120,88.35
+      1 Roseburia sp. 1120,88.95
+      1 Rubellimicrobium roseum,98.21
+      1 Rubellimicrobium roseum,98.69
+      1 Rubrobacter xylanophilus,100.00
+      1 Ruminococcaceae bacterium GD5,91.24
+      1 Ruminococcaceae bacterium Marseille-P2963,89.43
+      1 Ruminococcus albus,86.73
+      1 Ruminococcus albus,88.95
+      1 Ruminococcus flavefaciens,87.03
+      1 Ruminococcus flavefaciens,87.03
+      1 Ruminococcus sp. CO47,94.50
+      1 Ruminococcus sp. CO47,95.05
+      1 Ruminococcus sp. CO47,95.96
+      1 Ruminococcus sp. CO47,95.98
+      1 Ruminococcus sp. CO47,96.35
+      1 Ruminococcus sp. DJF_VR70k1,95.73
+      1 Ruminococcus sp. DJF_VR70k1,95.73
+      1 Ruminococcus sp. DJF_VR87,95.05
+      1 Ruminococcus sp. DJF_VR87,95.31
+      1 Ruminococcus sp. DJF_VR87,95.41
+      1 Ruminococcus sp. DJF_VR87,95.45
+      1 Ruminococcus sp. ID1,94.94
+      1 Ruminococcus sp. M73,90.87
+      1 Ruminococcus sp. Marseille-P3217,87.73
+      1 Ruminococcus sp. NK3A76,85.00
+      1 Ruminococcus sp. NK3A76,90.69
+      1 Ruminococcus sp. YE78,88.68
+      1 Ruminococcus sp.,85.38
+      1 Ruminococcus sp.,87.56
+      1 Ruminococcus sp.,91.20
+      1 Ruminococcus sp.,91.67
+      1 Ruminococcus sp.,91.71
+      1 Ruminococcus sp.,92.78
+      1 Ruminococcus sp.,92.78
+      1 Ruminococcus sp.,94.47
+      1 Ruminococcus sp.,96.10
+      1 Ruminococcus sp.,96.53
+      1 Ruminococcus sp.,96.98
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Sphingomonas sp.,99.55
+      1 Streptomyces sp. CNS-764_SF06,99.55
+      1 Streptomyces sp. CNS-764_SF06,99.55
+      1 Tyzzerella sp. Marseille-P3062,94.34
+      1 Variovorax paradoxus,100.00
+      1 [Ruminococcus] gnavus,93.75
+      1 [Ruminococcus] gnavus,96.83
+      1 activated sludge bacterium LB32,98.73
+      1 anaerobic bacterium foal30,96.71
+      1 bacterium AB2031,95.26
+      1 bacterium AC2043,83.26
+      1 bacterium ASF500,96.70
+      1 bacterium Ellin6075,93.28
+      1 bacterium FB2005,89.86
+      1 bacterium FB2005,95.37
+      1 bacterium FB2005,96.00
+      1 bacterium FB2005,96.44
+      1 bacterium FB2012,92.43
+      1 bacterium FB2012,92.57
+      1 bacterium FB2012,92.67
+      1 bacterium FB2012,92.75
+      1 bacterium FB2012,92.75
+      1 bacterium FB2012,92.79
+      1 bacterium FB2012,92.79
+      1 bacterium FB2012,93.27
+      1 bacterium FB2012,93.27
+      1 bacterium FB2012,93.27
+      1 bacterium FB2012,93.51
+      1 bacterium FB2012,93.66
+      1 bacterium LB3006,85.90
+      1 bacterium LE2012,89.07
+      1 bacterium LE2012,89.62
+      1 bacterium MC2006,87.85
+      1 bacterium NB3007,92.89
+      1 bacterium NC2001,93.27
+      1 bacterium NLAE-zl-C273,84.69
+      1 bacterium NLAE-zl-C273,87.13
+      1 bacterium NLAE-zl-C312,91.24
+      1 bacterium NLAE-zl-C488,88.42
+      1 bacterium NLAE-zl-C488,89.53
+      1 bacterium NLAE-zl-C488,89.95
+      1 bacterium NLAE-zl-G1,94.07
+      1 bacterium NLAE-zl-G1,96.60
+      1 bacterium NLAE-zl-G1,96.60
+      1 bacterium NLAE-zl-G1,96.60
+      1 bacterium NLAE-zl-G1,96.60
+      1 bacterium NLAE-zl-G1,96.60
+      1 bacterium NLAE-zl-G12,91.56
+      1 bacterium NLAE-zl-G12,92.15
+      1 bacterium NLAE-zl-G12,92.42
+      1 bacterium NLAE-zl-G12,92.51
+      1 bacterium NLAE-zl-G12,93.67
+      1 bacterium NLAE-zl-G12,93.83
+      1 bacterium NLAE-zl-G12,93.97
+      1 bacterium NLAE-zl-G12,96.36
+      1 bacterium NLAE-zl-G12,96.58
+      1 bacterium P1G4,96.09
+      1 bacterium P2C2,100.00
+      1 bacterium TMB39,92.82
+      1 bacterium TMB39,93.60
+      1 bacterium V9D2002,90.62
+      1 bacterium V9D2002,90.67
+      1 bacterium VCB2004,92.45
+      1 bacterium WCD2010,94.54
+      1 bacterium WCD2010,94.54
+      1 bacterium WH3-2,90.41
+      1 bacterium XBD2005,91.21
+      1 bacterium XPB1003,95.63
+      1 bacterium XPB1003,97.40
+      1 bacterium YAB2009,88.38
+      1 bacterium YE57,90.78
+      1 bacterium YE64,95.81
+      1 bacterium YE64,96.14
+      1 bacterium YGB2004,83.73
+      1 bacterium YGD2002,90.16
+      1 bacterium YRD2003,91.08
+      1 butyrate-producing bacterium L2-10,93.67
+      1 butyrate-producing bacterium T2-145,93.81
+      1 mixed culture ruminal bacterium PAD193,90.75
+      1 mixed culture ruminal bacterium PAD193,92.89
+      1 mixed culture ruminal bacterium PAD193,93.62
+      1 mixed culture ruminal bacterium PAD193,93.98
+      1 mixed culture ruminal bacterium PAD193,94.47
+      1 rhizosphere soil bacterium RSI-21,96.70
+      1 rhizosphere soil bacterium RSI-21,96.73
+      1 rumen bacterium NK2A1,95.00
+      1 rumen bacterium NK2A1,95.75
+      1 rumen bacterium NK2A1,96.23
+      1 rumen bacterium NK2A1,96.34
+      1 rumen bacterium NK2A14,96.28
+      1 rumen bacterium NK2A14,96.30
+      1 rumen bacterium NK4A222,88.04
+      1 rumen bacterium NK4A222,95.94
+      1 rumen bacterium NK4A222,95.94
+      1 rumen bacterium NK4A222,95.94
+      1 rumen bacterium NK4B29,86.57
+      1 rumen bacterium YS2,87.23
+      1 rumen bacterium YS2,88.65
+      1 rumen bacterium YS2,88.89
+      1 rumen bacterium YS2,89.95
+      1 rumen bacterium YS2,90.61
+      1 rumen bacterium YS2,90.91
+      1 rumen bacterium YS2,92.20
+      1 unidentified bacterium,100.00
+      1 unidentified bacterium,88.37
+      1 unidentified bacterium,88.41
+      1 unidentified bacterium,88.84
+      1 unidentified bacterium,88.94
+      1 unidentified bacterium,90.48
+      1 unidentified bacterium,91.59
+      1 unidentified bacterium,91.71
+      1 unidentified bacterium,91.71
+      1 unidentified bacterium,94.33
+      1 unidentified bacterium,94.83
+      1 unidentified bacterium,95.06
+      1 unidentified bacterium,95.59
+      1 unidentified bacterium,98.13
+      1 unidentified bacterium,99.08
+      1 unidentified bacterium,99.55
+      2 Candidatus Melainabacteria bacterium MEL.A1,85.11
+      2 Castanea mollissima,100.00
+      2 Castanea mollissima,100.00
+      2 Clostridiales bacterium KB18,89.78
+      2 Ruminococcus sp.,91.67
+      3 Anaerostipes hadrus,91.98
+      3 Mogibacterium pumilum,90.31
+      4 Anaerostipes hadrus,92.41
+      4 Blautia coccoides,94.66
+      4 Blautia coccoides,94.93
+      4 Blautia coccoides,95.28
+      4 Blautia coccoides,96.73
+      5 Blautia coccoides,95.43
+      6 Flavobacterium psychrophilum,95.77

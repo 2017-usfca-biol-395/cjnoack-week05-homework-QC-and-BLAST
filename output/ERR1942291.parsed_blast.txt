@@ -1,0 +1,561 @@
+      1 Acidovorax sp.,100.00
+      1 Acinetobacter lwoffii,100.00
+      1 Acinetobacter lwoffii,100.00
+      1 Actinotalea sp. 5GHs33-3,98.20
+      1 Alphaproteobacteria bacterium,95.88
+      1 Alphaproteobacteria bacterium,95.88
+      1 Alphaproteobacteria bacterium,95.88
+      1 Alphaproteobacteria bacterium,95.88
+      1 Alphaproteobacteria bacterium,95.88
+      1 Alphaproteobacteria bacterium,95.88
+      1 Alphaproteobacteria bacterium,95.88
+      1 Alphaproteobacteria bacterium,95.88
+      1 Alphaproteobacteria bacterium,96.91
+      1 Alphaproteobacteria bacterium,96.91
+      1 Alphaproteobacteria bacterium,96.91
+      1 Alphaproteobacteria bacterium,96.91
+      1 Anaplasma marginale,93.52
+      1 Antarctic bacterium 3C8,99.55
+      1 Arthrobacter bergerei,100.00
+      1 Arthrobacter bergerei,100.00
+      1 Arthrobacter bergerei,99.15
+      1 Arthrobacter bergerei,99.57
+      1 Arthrobacter nicotianae,99.15
+      1 Arthrobacter sp. 5,99.57
+      1 Arthrobacter sp. Bca54,99.57
+      1 Arthrobacter sp. MYb224,100.00
+      1 Arthrobacter sp.,100.00
+      1 Arthrobacter sp.,100.00
+      1 Arthrobacter sp.,99.55
+      1 Arthrobacter sp.,99.58
+      1 Bartonella sp. TR-39,100.00
+      1 Beggiatoa sp. 'Guadeloupe FWI',92.86
+      1 Brachybacterium sp. BN5,100.00
+      1 Brachybacterium sp. BN5,100.00
+      1 Brevibacterium sp.,96.55
+      1 Brevibacterium sp.,97.47
+      1 Brevibacterium sp.,97.51
+      1 Cardiobacterium sp. feline oral taxon 346,89.92
+      1 Cardiobacterium sp. feline oral taxon 346,90.76
+      1 Cardiobacterium sp. feline oral taxon 346,90.76
+      1 Cardiobacterium sp. feline oral taxon 346,90.76
+      1 Cardiobacterium sp. feline oral taxon 346,90.76
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Cardiobacterium sp. feline oral taxon 346,91.60
+      1 Cardiobacterium sp. feline oral taxon 346,91.67
+      1 Cardiobacterium sp. feline oral taxon 346,92.44
+      1 Cardiobacterium sp. feline oral taxon 346,92.44
+      1 Cardiobacterium sp. feline oral taxon 346,94.12
+      1 Choricystis parasitica,81.45
+      1 Choricystis parasitica,81.82
+      1 Clostridiales bacterium oral taxon 075,88.37
+      1 Conexibacter sp. URHE0039,99.43
+      1 Desulfovibrio fructosivorans,92.50
+      1 Duganella zoogloeoides,100.00
+      1 Duganella zoogloeoides,100.00
+      1 Duganella zoogloeoides,99.53
+      1 Erysipelatoclostridium sp. SNUG30370,98.12
+      1 Erysipelatoclostridium sp. SNUG30370,99.06
+      1 Flavobacterium sp. HME6133,96.96
+      1 Flavobacterium sp. SC19,94.41
+      1 Gordonia hydrophobica,95.02
+      1 Gordonia hydrophobica,98.21
+      1 Gordonia hydrophobica,98.22
+      1 Halomonas sp. NIMMe7,93.75
+      1 Halomonas sp. NIMMe7,93.75
+      1 Halomonas sp. NIMMe7,93.75
+      1 Intrasporangiaceae bacterium LCK-2009.8,99.08
+      1 Janibacter sp.,100.00
+      1 Janibacter-like sp. V4.BO.43,95.15
+      1 Jeotgalicoccus sp. 218B4_12EMRSA,99.52
+      1 Larix decidua,100.00
+      1 Marinobacter sp. YCSD73-1,91.82
+      1 Marmoricola sp. S20-100,96.65
+      1 Marmoricola sp. S20-100,96.80
+      1 Marmoricola sp. S20-100,97.00
+      1 Massilia brevitalea,98.14
+      1 Microbacterium sp.,99.07
+      1 Microbacterium sp.,99.55
+      1 Microbulbifer celer,93.75
+      1 Modestobacter versicolor,99.48
+      1 Nocardia ignorata,100.00
+      1 Nocardioides albertani,98.21
+      1 Nocardioides albertani,98.23
+      1 Nocardioides albertani,98.65
+      1 Nocardioides albertani,98.66
+      1 Nocardioides sp. AP3,95.63
+      1 Nocardioides sp. AP3,95.96
+      1 Paenibacillus sp. L2129,99.53
+      1 Paenibacillus sp. L2129,99.53
+      1 Pelomonas puraquae,100.00
+      1 Pelomonas puraquae,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,100.00
+      1 Pinus oocarpa,96.02
+      1 Pinus oocarpa,97.74
+      1 Pinus oocarpa,98.87
+      1 Pinus oocarpa,99.07
+      1 Pinus oocarpa,99.10
+      1 Pinus oocarpa,99.42
+      1 Pinus oocarpa,99.43
+      1 Pinus oocarpa,99.43
+      1 Pinus oocarpa,99.44
+      1 Pinus oocarpa,99.44
+      1 Pinus oocarpa,99.44
+      1 Pinus oocarpa,99.44
+      1 Pinus oocarpa,99.44
+      1 Pinus oocarpa,99.44
+      1 Pinus oocarpa,99.44
+      1 Pinus oocarpa,99.44
+      1 Pinus oocarpa,99.45
+      1 Pinus oocarpa,99.46
+      1 Pinus oocarpa,99.54
+      1 Pinus oocarpa,99.54
+      1 Pinus oocarpa,99.54
+      1 Pinus oocarpa,99.54
+      1 Pinus oocarpa,99.55
+      1 Pinus oocarpa,99.55
+      1 Pinus oocarpa,99.55
+      1 Pinus oocarpa,99.55
+      1 Pinus oocarpa,99.55
+      1 Pinus oocarpa,99.55
+      1 Pinus oocarpa,99.55
+      1 Pinus oocarpa,99.55
+      1 Pinus oocarpa,99.55
+      1 Pinus oocarpa,99.55
+      1 Pinus oocarpa,99.55
+      1 Pinus oocarpa,99.55
+      1 Pinus oocarpa,99.55
+      1 Pinus oocarpa,99.55
+      1 Pinus oocarpa,99.55
+      1 Planomicrobium sp. ES2,98.25
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,99.58
+      1 Propionibacterium acnes subsp. acnes,99.58
+      1 Pseudonocardia alaniniphila,97.39
+      1 Pseudonocardia hydrocarbonoxydans,96.88
+      1 Psychrobacillus psychrodurans,99.56
+      1 Rhizobium sp.,100.00
+      1 Rickettsiella endosymbiont of Ixodes tasmani,92.04
+      1 Rickettsiella endosymbiont of Ixodes tasmani,92.04
+      1 Salinisphaera sp.,91.45
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,85.53
+      1 Solemya pervernicosa gill symbiont,86.08
+      1 Solemya pervernicosa gill symbiont,86.08
+      1 Solemya pervernicosa gill symbiont,86.08
+      1 Solemya pervernicosa gill symbiont,86.08
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.16
+      1 Solemya pervernicosa gill symbiont,86.25
+      1 Solemya pervernicosa gill symbiont,86.25
+      1 Solemya pervernicosa gill symbiont,86.71
+      1 Solemya pervernicosa gill symbiont,86.79
+      1 Solemya pervernicosa gill symbiont,86.79
+      1 Solemya pervernicosa gill symbiont,86.79
+      1 Solemya pervernicosa gill symbiont,86.79
+      1 Solemya pervernicosa gill symbiont,86.79
+      1 Solemya pervernicosa gill symbiont,86.79
+      1 Sphingobacteriaceae bacterium Gsoil 524,96.93
+      1 Sphingobacteriaceae bacterium Gsoil 524,96.93
+      1 Sphingobacteriaceae bacterium Gsoil 524,97.27
+      1 Sphingobacterium sp.,93.43
+      1 Sphingomonas fennica,100.00
+      1 Sphingomonas sp. NSA_2,99.07
+      1 Stackebrandtia sp. YIM 64602,96.86
+      1 Staphylococcus sp.,100.00
+      1 Staphylococcus sp.,100.00
+      1 Staphylococcus sp.,100.00
+      1 Staphylococcus sp.,100.00
+      1 Staphylococcus succinus subsp. casei,100.00
+      1 Staphylococcus succinus subsp. casei,99.55
+      1 Staphylococcus succinus subsp. succinus,99.57
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,99.06
+      1 Staphylococcus succinus,99.12
+      1 Staphylococcus succinus,99.12
+      1 Staphylococcus succinus,99.45
+      1 Staphylococcus succinus,99.54
+      1 Staphylococcus succinus,99.56
+      1 Staphylococcus succinus,99.57
+      1 Staphylococcus succinus,99.57
+      1 Staphylococcus succinus,99.57
+      1 Staphylococcus xylosus,99.17
+      1 Streptomyces sp. 14CM001,99.07
+      1 Streptomyces sp.,97.73
+      1 Undibacterium sp.,99.46
+      1 [Clostridium] lituseburense,99.11
+      1 bacterium C14,93.94
+      1 bacterium YC-ZSS-LKJ140,87.73
+      1 filamentous bacterium Plant1 Iso8,88.74
+      1 proteobacterium E4-1,97.32
+      1 unidentified bacterium,100.00
+      1 unidentified bacterium,88.72
+      1 unidentified bacterium,88.72
+      1 unidentified bacterium,89.05
+      1 unidentified bacterium,89.19
+      1 unidentified bacterium,89.47
+      1 unidentified bacterium,89.47
+      1 unidentified bacterium,91.04
+      1 unidentified bacterium,92.75
+      1 unidentified bacterium,93.12
+      1 unidentified bacterium,93.13
+      1 unidentified bacterium,95.26
+      1 unidentified bacterium,98.67
+      1 unidentified bacterium,98.68
+      2 Fragaria nipponica,100.00
+      2 Pinus oocarpa,100.00
+      2 Pinus oocarpa,100.00
+      2 Pinus oocarpa,100.00
+      2 Pinus oocarpa,100.00
+      2 Prunus cerasoides,100.00
+      2 Prunus cerasoides,100.00
+      2 Prunus cerasoides,100.00
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      2 Solemya pervernicosa gill symbiont,86.16
+      3 Cardiobacterium sp. feline oral taxon 346,91.60
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      3 Solemya pervernicosa gill symbiont,86.16
+      4 Solemya pervernicosa gill symbiont,86.16
+      4 Solemya pervernicosa gill symbiont,86.16
+      4 Solemya pervernicosa gill symbiont,86.16
+      4 Solemya pervernicosa gill symbiont,86.16
+      4 Solemya pervernicosa gill symbiont,86.16
+      4 Solemya pervernicosa gill symbiont,86.16
+      4 Solemya pervernicosa gill symbiont,86.16
+      4 Solemya pervernicosa gill symbiont,86.16
+      4 Solemya pervernicosa gill symbiont,86.16
+      4 Solemya pervernicosa gill symbiont,86.16
+      4 Solemya pervernicosa gill symbiont,86.16
+      4 Solemya pervernicosa gill symbiont,86.16
+      4 Solemya pervernicosa gill symbiont,86.16
+      4 Solemya pervernicosa gill symbiont,86.16
+      4 Solemya pervernicosa gill symbiont,86.16
+      4 Solemya pervernicosa gill symbiont,86.16
+      4 Solemya pervernicosa gill symbiont,86.16
+      4 Solemya pervernicosa gill symbiont,86.16
+      4 Solemya pervernicosa gill symbiont,86.16
+      5 Solemya pervernicosa gill symbiont,86.16
+      5 Solemya pervernicosa gill symbiont,86.16
+      5 Solemya pervernicosa gill symbiont,86.16
+      5 Solemya pervernicosa gill symbiont,86.16
+      5 Solemya pervernicosa gill symbiont,86.16
+      5 Solemya pervernicosa gill symbiont,86.16
+      5 Solemya pervernicosa gill symbiont,86.16
+      5 Solemya pervernicosa gill symbiont,86.16
+      5 Solemya pervernicosa gill symbiont,86.16
+      5 Solemya pervernicosa gill symbiont,86.16
+      5 Solemya pervernicosa gill symbiont,86.16
+      6 Solemya pervernicosa gill symbiont,86.16
+      6 Solemya pervernicosa gill symbiont,86.16
+      6 Solemya pervernicosa gill symbiont,86.16
+      6 Solemya pervernicosa gill symbiont,86.16
+      6 Solemya pervernicosa gill symbiont,86.16
+      6 Solemya pervernicosa gill symbiont,86.16
+      6 Solemya pervernicosa gill symbiont,86.16
+      6 Solemya pervernicosa gill symbiont,86.16
+      7 Solemya pervernicosa gill symbiont,86.16
+      7 Solemya pervernicosa gill symbiont,86.16
+      7 Solemya pervernicosa gill symbiont,86.16
+      7 Solemya pervernicosa gill symbiont,86.16
+      8 Solemya pervernicosa gill symbiont,86.16
+      9 Solemya pervernicosa gill symbiont,86.16
+     11 Solemya pervernicosa gill symbiont,86.16
