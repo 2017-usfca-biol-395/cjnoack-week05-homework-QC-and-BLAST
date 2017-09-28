@@ -14,6 +14,6 @@ echo "Done!"
 echo "Parsing data..."
 for file in output/blast/*.trim.blast_results.csv
 do
-	cut -d, -f1,4 $file | uniq -c | sort -g > output/$(basename -s .trim.blast_results.csv $file).parsed_blast.txt
+	cut -d, -f1,4 $file | uniq -c | sort -g > output/parsed/$(basename -s .trim.blast_results.csv $file).parsed_blast.txt
 done
 echo "Done!"
