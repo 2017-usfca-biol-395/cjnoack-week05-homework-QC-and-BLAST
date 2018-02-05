@@ -1,0 +1,647 @@
+      1 Acetatifactor muris,91.02
+      1 Acidobacteria bacterium KF4-20/2,97.79
+      1 Acidobacteria bacterium KF4-20/2,97.79
+      1 Acidobacteria bacterium UCL-110,92.34
+      1 Acidovorax sp.,99.54
+      1 Acinetobacter lwoffii,98.72
+      1 Acinetobacter lwoffii,99.15
+      1 Actinoalloteichus sp.,100.00
+      1 Agrobacterium tumefaciens,100.00
+      1 Agrococcus jenensis,99.53
+      1 Agrococcus sp. SX2R1S2,100.00
+      1 Agromyces sp.,100.00
+      1 Agromyces sp.,100.00
+      1 Alistipes sp.,88.62
+      1 Anaeroplasma abactoclasticum,84.05
+      1 Anaeroplasma abactoclasticum,84.07
+      1 Anaeroplasma abactoclasticum,84.65
+      1 Anaeroplasma abactoclasticum,84.71
+      1 Anaeroplasma abactoclasticum,84.71
+      1 Anaeroplasma abactoclasticum,84.71
+      1 Anaeroplasma abactoclasticum,84.71
+      1 Anaeroplasma abactoclasticum,84.71
+      1 Anaeroplasma abactoclasticum,84.71
+      1 Anaeroplasma abactoclasticum,84.74
+      1 Anaeroplasma abactoclasticum,85.10
+      1 Anaeroplasma abactoclasticum,85.10
+      1 Anaerostipes hadrus,90.72
+      1 Anaerostipes hadrus,91.56
+      1 Anaplasma phagocytophilum,97.75
+      1 Anaplasma phagocytophilum,98.22
+      1 Anaplasma phagocytophilum,98.67
+      1 Arcicella sp. HME7208,100.00
+      1 Arthrobacter citreus,100.00
+      1 Arthrobacter nicotinovorans,99.57
+      1 Arthrobacter oxydans,100.00
+      1 Arthrobacter sp. 0913CV11KN7,94.14
+      1 Arthrobacter sp. MYb224,99.15
+      1 Arthrobacter sp.,100.00
+      1 Arthrobacter sp.,100.00
+      1 Arthrobacter sp.,100.00
+      1 Arthrobacter sp.,100.00
+      1 Arthrobacter sp.,99.14
+      1 Bacillus sp. IDA1983,99.57
+      1 Bacillus sp. IDA4715,98.65
+      1 Bacillus sp. MS5,100.00
+      1 Bacteroidales bacterium ph8,90.57
+      1 Bacteroidales bacterium ph8,90.57
+      1 Bacteroides clarus YIT 12056,91.56
+      1 Bacteroides clarus YIT 12056,92.21
+      1 Bacteroides gallinarum,90.98
+      1 Bacteroides gallinarum,92.00
+      1 Bacteroides gallinarum,92.21
+      1 Bacteroides gallinarum,92.21
+      1 Bacteroides sp. HB5,91.16
+      1 Bacteroides sp. W20,91.02
+      1 Bacteroides sp. W20,92.24
+      1 Bacteroides sp. W20,92.68
+      1 Bacteroides sp. baku-33,87.72
+      1 Bacteroides sp. baku-33,87.72
+      1 Bacteroides stercoris ATCC 43183,91.96
+      1 Bacteroides stercoris ATCC 43183,92.59
+      1 Bacteroides stercoris,91.50
+      1 Bacteroides stercoris,91.87
+      1 Bacteroides stercoris,91.87
+      1 Bacteroides stercoris,92.31
+      1 Bacteroides vulgatus,91.45
+      1 Bacteroides vulgatus,91.63
+      1 Bacteroides vulgatus,92.02
+      1 Bartonella jaculi,100.00
+      1 Bartonella jaculi,100.00
+      1 Bartonella jaculi,99.42
+      1 Bartonella sp. HT3-1,99.52
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,94.63
+      1 Bartonella washoensis,95.32
+      1 Bartonella washoensis,95.78
+      1 Bartonella washoensis,96.22
+      1 Bartonella washoensis,96.52
+      1 Bartonella washoensis,97.45
+      1 Bartonella washoensis,99.10
+      1 Bartonella washoensis,99.11
+      1 Bartonella washoensis,99.11
+      1 Bartonella washoensis,99.11
+      1 Bartonella washoensis,99.11
+      1 Bartonella washoensis,99.52
+      1 Bartonella washoensis,99.53
+      1 Bartonella washoensis,99.53
+      1 Bartonella washoensis,99.53
+      1 Bartonella washoensis,99.53
+      1 Bartonella washoensis,99.54
+      1 Bartonella washoensis,99.54
+      1 Bartonella washoensis,99.54
+      1 Bartonella washoensis,99.54
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.56
+      1 Bartonella washoensis,99.56
+      1 Bartonella washoensis,99.56
+      1 Bartonella washoensis,99.56
+      1 Bartonella washoensis,99.56
+      1 Bartonella washoensis,99.56
+      1 Bartonella washoensis,99.56
+      1 Bartonella washoensis,99.56
+      1 Bartonella washoensis,99.56
+      1 Bartonella washoensis,99.56
+      1 Bartonella washoensis,99.56
+      1 Bartonella washoensis,99.56
+      1 Bartonella washoensis,99.56
+      1 Bartonella washoensis,99.56
+      1 Bartonella washoensis,99.56
+      1 Bartonella washoensis,99.56
+      1 Bartonella washoensis,99.56
+      1 Bartonella washoensis,99.56
+      1 Blastococcus sp. BMG 817,100.00
+      1 Blastococcus sp. FXJ8.162,100.00
+      1 Blautia schinkii,93.33
+      1 Brachybacterium sp. BN5,100.00
+      1 Brachybacterium sp. BN5,100.00
+      1 Brachybacterium sp. BN5,100.00
+      1 Brevibacterium linens,100.00
+      1 Brevibacterium linens,90.52
+      1 Brevibacterium linens,93.13
+      1 Brevibacterium sp. K198,99.59
+      1 Brevibacterium sp.,97.47
+      1 Brevibacterium sp.,97.52
+      1 Brevibacterium sp.,97.93
+      1 Brevibacterium sp.,97.98
+      1 Brevibacterium sp.,97.99
+      1 Brevibacterium sp.,97.99
+      1 Brevibacterium sp.,97.99
+      1 Brevundimonas viscosa,99.59
+      1 Burkholderia tropica;bacterium QTYC46b,86.70
+      1 Butyricicoccus sp. BB10,91.58
+      1 Butyricicoccus sp. BB10,91.93
+      1 Caulobacteraceae bacterium,98.26
+      1 Christensenella sp. AF73-05CM02,84.02
+      1 Clostridiales bacterium 30-4c,95.48
+      1 Clostridiales bacterium 30-4c,97.64
+      1 Clostridiales bacterium CIEAF 020,95.80
+      1 Clostridiales bacterium JN18_A89_K*,91.03
+      1 Clostridiales bacterium JN18_A89_K*,91.03
+      1 Clostridiales bacterium Marseille-P2846,93.58
+      1 Clostridiales bacterium Marseille-P2846,93.58
+      1 Clostridiales bacterium oral taxon 085,94.71
+      1 Clostridiales bacterium oral taxon C20,96.40
+      1 Clostridium methylpentosum;Clostridium methylpentosum DSM 5476,89.86
+      1 Clostridium methylpentosum;Clostridium methylpentosum DSM 5476,90.43
+      1 Clostridium methylpentosum;Clostridium methylpentosum DSM 5476,90.75
+      1 Clostridium sp. 619,96.74
+      1 Clostridium sp. BMD1,97.33
+      1 Clostridium sp. Clone-25,92.78
+      1 Clostridium sp. Clone-25,93.18
+      1 Clostridium sp. MB2-A37,86.24
+      1 Clostridium sp. SN17,93.39
+      1 Cryobacterium psychrotolerans,100.00
+      1 Dermacoccus sp.,92.53
+      1 Dialister sp. 67,93.75
+      1 Eggerthella sp. S6-C1,94.17
+      1 Eisenbergiella tayi,94.47
+      1 Empedobacter haloabium,94.34
+      1 Ethanoligenens harbinense YUAN-3,85.71
+      1 Eubacterium coprostanoligenes,93.10
+      1 Eubacterium coprostanoligenes,93.36
+      1 Firmicutes bacterium M53,93.68
+      1 Firmicutes bacterium M53,95.38
+      1 Flavisolibacter sp. Gsoil 439,95.31
+      1 Friedmanniella sp. UPAR04,100.00
+      1 Gordonia hydrophobica,93.81
+      1 Gordonia hydrophobica,94.44
+      1 Gordonia hydrophobica,94.50
+      1 Gordonia hydrophobica,96.04
+      1 Gordonia hydrophobica,96.97
+      1 Gordonia hydrophobica,97.32
+      1 Gordonia hydrophobica,97.42
+      1 Gordonia hydrophobica,97.64
+      1 Gordonia hydrophobica,97.80
+      1 Gordonia hydrophobica,98.22
+      1 Gordonia hydrophobica,98.22
+      1 Gordonia hydrophobica,98.24
+      1 Gordonia hydrophobica,98.24
+      1 Gordonia hydrophobica,98.27
+      1 Gordonia hydrophobica,98.27
+      1 Haemonchus placei,94.39
+      1 Hyphomonas sp. MOLA 55,96.44
+      1 Knoellia sp. DP_aq_198,100.00
+      1 Kribbella sp.,97.14
+      1 Lachnobacterium sp. wal 14165,95.74
+      1 Lachnospiraceae bacterium 539,94.89
+      1 Lachnospiraceae bacterium 615,86.39
+      1 Lachnospiraceae bacterium 615,89.47
+      1 Lachnospiraceae bacterium BLS21,97.58
+      1 Lachnospiraceae bacterium DW61,90.99
+      1 Lachnospiraceae bacterium TF01-11,92.95
+      1 Lachnospiraceae bacterium TF01-11,95.56
+      1 Lactobacillales bacterium DJF_B280,92.00
+      1 Lactobacillales bacterium DJF_B280,96.02
+      1 Lactobacillales bacterium DJF_B280,96.46
+      1 Lactobacillales bacterium DJF_B280,96.48
+      1 Lactobacillales bacterium HY-36-1,93.36
+      1 Lactobacillus animalis,100.00
+      1 Lactobacillus animalis,100.00
+      1 Legionella-like amoebal pathogen HT99,94.61
+      1 Magnetospirillum magnetotacticum,81.47
+      1 Marmoricola sp. KIS18-7,98.22
+      1 Marmoricola sp. S20-100,96.88
+      1 Massilia namucuonensis,98.25
+      1 Massilia sp. 8B-2,100.00
+      1 Massilia sp. 8B-2,100.00
+      1 Massilia sp. 8B-2,100.00
+      1 Massilia sp. 8B-2,99.54
+      1 Massilia sp. TG2-MRL,100.00
+      1 Massilia sp. TG2-MRL,100.00
+      1 Massilia sp. TH207,100.00
+      1 Massilia sp.,100.00
+      1 Massilia sp.,100.00
+      1 Methylobacteriaceae bacterium,100.00
+      1 Microgenomates (Daviesbacteria) bacterium GW2011_GWC1_40_9,91.28
+      1 Microgenomates (Daviesbacteria) bacterium GW2011_GWC1_40_9,91.28
+      1 Microgenomates (Daviesbacteria) bacterium GW2011_GWC1_40_9,91.28
+      1 Microgenomates (Daviesbacteria) bacterium GW2011_GWC1_40_9,91.28
+      1 Microgenomates (Woesebacteria) bacterium GW2011_GWA1_40_45,84.44
+      1 Microvirga sp. R491-7,100.00
+      1 Microvirga sp.,97.67
+      1 Microvirga sp.,99.46
+      1 Mobiluncus sp. S3MVAA2-2,97.54
+      1 Modestobacter multiseptatus,98.22
+      1 Mycobacterium monacense,100.00
+      1 Nocardioides sp. MSL 06,93.94
+      1 Nocardioides sp. URHD0080,100.00
+      1 Nocardioides sp.,97.38
+      1 Nocardioides sp.,97.72
+      1 Nocardiopsis exhalans,99.16
+      1 Nocardiopsis exhalans,99.16
+      1 Nocardiopsis sp. FIRDI 009,94.56
+      1 Nocardiopsis sp. OAct761,96.19
+      1 Nocardiopsis sp. OAct761,98.39
+      1 Nocardiopsis sp. OAct761,98.73
+      1 Nocardiopsis sp. OAct761,98.77
+      1 Nocardiopsis sp. OAct761,99.15
+      1 Nocardiopsis sp. OAct761,99.17
+      1 Nocardiopsis sp. OAct761,99.17
+      1 Nocardiopsis sp. OAct761,99.18
+      1 Nocardiopsis sp. OAct761,99.19
+      1 Nocardiopsis sp. OAct761,99.19
+      1 Nocardiopsis sp. OAct761,99.56
+      1 Nocardiopsis sp. OAct761,99.58
+      1 Nocardiopsis sp. OAct761,99.59
+      1 Nocardiopsis sp. OAct761,99.59
+      1 Nocardiopsis sp. OAct761,99.59
+      1 Nocardiopsis sp. OAct761,99.59
+      1 Nocardiopsis sp. OAct761,99.59
+      1 Nocardiopsis sp. OAct761,99.59
+      1 Nocardiopsis sp. OAct761,99.59
+      1 Nocardiopsis sp. OAct761,99.59
+      1 Nocardiopsis sp. OAct761,99.59
+      1 Nocardiopsis sp. OAct761,99.59
+      1 Nocardiopsis sp. OAct761,99.59
+      1 Nocardiopsis sp. OAct761,99.59
+      1 Nocardiopsis sp. OAct761,99.59
+      1 Nocardiopsis sp. OAct761,99.59
+      1 Nocardiopsis sp. OAct761,99.59
+      1 Nocardiopsis sp. OAct761,99.59
+      1 Nocardiopsis sp. OAct761,99.60
+      1 Nocardiopsis sp. OAct761,99.60
+      1 Nocardiopsis sp. OAct761,99.60
+      1 Nocardiopsis sp. OAct761,99.60
+      1 Nocardiopsis sp. OAct761,99.60
+      1 Nocardiopsis sp. OAct761,99.60
+      1 Nocardiopsis sp. OAct761,99.60
+      1 Nocardiopsis sp. OAct761,99.60
+      1 Nocardiopsis sp. OAct761,99.60
+      1 Nocardiopsis sp. OAct761,99.60
+      1 Nocardiopsis sp.,99.17
+      1 Oscillospira sp. H,85.00
+      1 Oscillospiraceae bacterium Marseille-P2840,88.18
+      1 Oscillospiraceae bacterium Marseille-P2840,93.98
+      1 Oscillospiraceae bacterium Marseille-P2840,94.20
+      1 Paenibacillus antarcticus,89.43
+      1 Pedobacter sp.,94.86
+      1 Pedobacter sp.,94.86
+      1 Pedobacter sp.,99.54
+      1 Pelomonas puraquae,100.00
+      1 Phenylobacterium immobile,100.00
+      1 Phenylobacterium immobile,100.00
+      1 Planococcaceae bacterium Bac135R,96.58
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,95.80
+      1 Propionibacterium acnes subsp. acnes,95.80
+      1 Pseudarthrobacter sp.,100.00
+      1 Pseudoflavonifractor sp. Marseille-P3106,94.50
+      1 Pseudomonas sp. A106,93.87
+      1 Pseudomonas sp.,100.00
+      1 Rheinheimera sp. LU2A,99.54
+      1 Rhizobium sp. XWS-28,100.00
+      1 Rhizobium sp. XWS-28,100.00
+      1 Rhodococcus sp. RG-14,100.00
+      1 Rhodococcus sp.,93.81
+      1 Rhodococcus sp.,93.81
+      1 Roseburia sp. 1120,89.42
+      1 Roseburia sp. 1120,89.47
+      1 Rubrobacter xylanophilus,100.00
+      1 Ruminococcus albus,87.50
+      1 Ruminococcus albus,87.50
+      1 Ruminococcus flavefaciens,89.19
+      1 Ruminococcus flavefaciens,89.19
+      1 Ruminococcus sp. CO47,95.13
+      1 Ruminococcus sp. CO47,95.13
+      1 Ruminococcus sp. CO47,95.43
+      1 Ruminococcus sp. CO47,96.35
+      1 Ruminococcus sp. CO47,96.41
+      1 Ruminococcus sp. CO47,96.82
+      1 Ruminococcus sp. Marseille-P2976,89.53
+      1 Ruminococcus sp. Marseille-P3213,89.29
+      1 Ruminococcus sp.,91.11
+      1 Saccharopolyspora rectivirgula,99.59
+      1 Saccharopolyspora rectivirgula,99.59
+      1 Saccharopolyspora sp. KLBMP 1530,99.57
+      1 Saccharopolyspora sp. KLBMP1305,96.83
+      1 Saccharopolyspora sp.,98.71
+      1 Saccharopolyspora sp.,98.71
+      1 Salinibacterium xinjiangense,98.19
+      1 Salinibacterium xinjiangense,98.20
+      1 Salinibacterium xinjiangense,98.65
+      1 Spartobacteria bacterium Gsoil 144,87.67
+      1 Sphaerotilus montanus,99.55
+      1 Sphingobacterium sp. H7,90.50
+      1 Sphingomonadaceae bacterium Gsoil 690,97.77
+      1 Sphingomonadaceae bacterium Gsoil 690,97.77
+      1 Sphingomonas sp. 9PNM-25,100.00
+      1 Sphingomonas sp. JMT1937,100.00
+      1 Sphingomonas sp.,100.00
+      1 Sphingomonas sp.,97.47
+      1 Sphingomonas sp.,99.55
+      1 Staphylococcus sp.,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Staphylococcus succinus,94.57
+      1 Staphylococcus succinus,97.10
+      1 Staphylococcus succinus,97.38
+      1 Staphylococcus succinus,98.91
+      1 Staphylococcus succinus,99.13
+      1 Staphylococcus succinus,99.57
+      1 Staphylococcus succinus,99.57
+      1 Staphylococcus succinus,99.57
+      1 Staphylococcus succinus,99.57
+      1 Staphylococcus succinus,99.57
+      1 Staphylococcus succinus,99.59
+      1 Streptococcus mitis,99.45
+      1 Streptomyces guanduensis,97.41
+      1 Streptomyces guanduensis,97.69
+      1 Streptomyces guanduensis,97.70
+      1 Streptomyces guanduensis,97.74
+      1 Streptomyces guanduensis,97.75
+      1 Streptomyces guanduensis,97.78
+      1 Streptomyces guanduensis,97.78
+      1 Streptomyces guanduensis,97.78
+      1 Streptomyces guanduensis,97.78
+      1 Streptomyces guanduensis,97.78
+      1 Streptomyces guanduensis,97.78
+      1 Streptomyces guanduensis,97.78
+      1 Streptomyces guanduensis,97.79
+      1 Streptomyces guanduensis,97.79
+      1 Streptomyces guanduensis,97.79
+      1 Streptomyces guanduensis,97.79
+      1 Streptomyces sp. EGI80234,100.00
+      1 Streptomyces sp. KLBMP1330,98.66
+      1 Streptomyces sp. KLBMP1330,99.11
+      1 Streptomyces sp.,100.00
+      1 Streptomyces sp.,100.00
+      1 Streptomyces sp.,100.00
+      1 Streptomyces sp.,97.67
+      1 Streptomyces sp.,97.69
+      1 Streptomyces sp.,97.74
+      1 Streptomyces sp.,97.74
+      1 Streptomyces sp.,97.74
+      1 Streptomyces sp.,97.74
+      1 Tsuga sieboldii,100.00
+      1 Tsuga sieboldii,100.00
+      1 Tsuga sieboldii,100.00
+      1 Tsuga sieboldii,100.00
+      1 Tsuga sieboldii,100.00
+      1 Tsuga sieboldii,93.44
+      1 bacterium 15(2016),87.56
+      1 bacterium 15(2016),87.61
+      1 bacterium 15(2016),87.67
+      1 bacterium 21_oclvp54,100.00
+      1 bacterium 21_oclvp54,100.00
+      1 bacterium 8_xplvp75,100.00
+      1 bacterium AC3010,95.05
+      1 bacterium AE3015,88.38
+      1 bacterium AE3018,88.26
+      1 bacterium ASF500,95.43
+      1 bacterium BEL C3,99.17
+      1 bacterium BEL C3,99.17
+      1 bacterium BEL C3,99.59
+      1 bacterium BEL C3,99.59
+      1 bacterium CS57,95.81
+      1 bacterium FB2012,92.06
+      1 bacterium FB2012,92.38
+      1 bacterium FB2012,92.52
+      1 bacterium FB2012,92.52
+      1 bacterium FB2012,92.59
+      1 bacterium FB2012,92.59
+      1 bacterium FB2012,92.82
+      1 bacterium FB2012,93.40
+      1 bacterium FB2012,93.40
+      1 bacterium LB3006,83.33
+      1 bacterium NB3007,94.37
+      1 bacterium NC2001,94.09
+      1 bacterium NC2001,94.12
+      1 bacterium NLAE-zl-C330,100.00
+      1 bacterium NLAE-zl-G1,94.92
+      1 bacterium NLAE-zl-G1,96.60
+      1 bacterium NLAE-zl-G12,89.01
+      1 bacterium NLAE-zl-G12,89.01
+      1 bacterium NLAE-zl-G12,95.26
+      1 bacterium NLAE-zl-G12,95.29
+      1 bacterium NLAE-zl-G12,95.29
+      1 bacterium TMB39,91.67
+      1 bacterium TMB39,92.42
+      1 bacterium TMB39,92.76
+      1 bacterium TMB39,92.89
+      1 bacterium WH3-2,90.14
+      1 bacterium WH3-2,90.91
+      1 bacterium YAB3002,94.67
+      1 bacterium YAB3002,94.67
+      1 bacterium YC-ZSS-LKJ142,99.55
+      1 bacterium YE57,93.15
+      1 bacterium YE57,93.15
+      1 bacterium YRD2003,91.16
+      1 bacterium YSB2005,93.49
+      1 butyrate-producing bacterium A2-207,88.44
+      1 rumen bacterium YS2,90.09
+      1 rumen bacterium YS2,92.79
+      1 rumen bacterium YS2,92.79
+      1 rumen bacterium YS2,92.79
+      1 rumen bacterium YS2,92.79
+      1 rumen bacterium YS2,93.26
+      1 rumen bacterium YS2,93.27
+      1 rumen bacterium YS2,93.72
+      1 rumen bacterium YS2,94.15
+      1 rumen bacterium YS2,94.17
+      1 unidentified bacterium,88.54
+      1 unidentified bacterium,89.43
+      1 unidentified bacterium,90.11
+      1 unidentified bacterium,90.43
+      1 unidentified bacterium,90.68
+      1 unidentified bacterium,90.74
+      1 unidentified bacterium,90.79
+      1 unidentified bacterium,91.74
+      1 unidentified bacterium,91.74
+      1 unidentified bacterium,94.12
+      1 unidentified bacterium,94.33
+      1 unidentified bacterium,95.02
+      1 unidentified bacterium,95.51
+      1 unidentified bacterium,96.23
+      1 unidentified bacterium,96.28
+      1 unidentified bacterium,96.55
+      1 unidentified bacterium,96.55
+      1 unidentified bacterium,96.98
+      1 unidentified bacterium,97.18
+      1 unidentified bacterium,97.22
+      1 unidentified bacterium,97.24
+      1 unidentified bacterium,97.24
+      1 unidentified bacterium,97.76
+      1 unidentified bacterium,97.93
+      1 unidentified bacterium,98.66
+      1 unidentified bacterium,98.78
+      1 unidentified bacterium,99.53
+      1 unidentified eubacterium clone BSV70,91.11
+      1 unidentified eubacterium clone BSV70,91.11
+      2 Bartonella sp. JB63,99.10
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Beta vulgaris subsp. vulgaris,99.12
+      2 Brevibacterium linens,90.95
+      2 Chenopodium quinoa,100.00
+      2 Chenopodium quinoa,100.00
+      2 Chenopodium quinoa,99.55
+      3 Anaerostipes hadrus,91.98
+      3 Bartonella washoensis,100.00
+      3 Bartonella washoensis,100.00
+      3 Bartonella washoensis,100.00
+      3 Bartonella washoensis,100.00
+      3 Bartonella washoensis,100.00
+      3 Bartonella washoensis,100.00
+      4 Anaerostipes hadrus,92.41
+      4 Bartonella washoensis,100.00
+      4 Bartonella washoensis,100.00
+      4 Bartonella washoensis,100.00
+      5 Bartonella washoensis,100.00

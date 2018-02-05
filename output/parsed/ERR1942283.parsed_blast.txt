@@ -1,0 +1,732 @@
+      1 Acidovorax caeni,100.00
+      1 Acidovorax delafieldii,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,100.00
+      1 Acidovorax sp.,96.83
+      1 Acidovorax sp.,96.85
+      1 Acidovorax sp.,98.60
+      1 Acidovorax sp.,98.62
+      1 Acidovorax sp.,98.66
+      1 Acidovorax sp.,99.02
+      1 Acidovorax sp.,99.07
+      1 Acidovorax sp.,99.07
+      1 Acidovorax sp.,99.07
+      1 Acidovorax sp.,99.08
+      1 Acidovorax sp.,99.09
+      1 Acidovorax sp.,99.10
+      1 Acidovorax sp.,99.10
+      1 Acidovorax sp.,99.47
+      1 Acidovorax sp.,99.51
+      1 Acidovorax sp.,99.52
+      1 Acidovorax sp.,99.53
+      1 Acidovorax sp.,99.54
+      1 Acidovorax sp.,99.54
+      1 Acidovorax sp.,99.54
+      1 Acidovorax sp.,99.54
+      1 Acidovorax sp.,99.54
+      1 Acidovorax sp.,99.54
+      1 Acidovorax sp.,99.54
+      1 Acidovorax sp.,99.54
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.55
+      1 Acidovorax sp.,99.56
+      1 Acidovorax temperans,100.00
+      1 Acidovorax temperans,100.00
+      1 Acidovorax temperans,100.00
+      1 Acidovorax temperans,100.00
+      1 Acidovorax temperans,100.00
+      1 Acidovorax temperans,100.00
+      1 Acidovorax temperans,100.00
+      1 Acidovorax temperans,100.00
+      1 Acidovorax temperans,100.00
+      1 Acidovorax temperans,100.00
+      1 Acidovorax temperans,100.00
+      1 Acidovorax temperans,99.55
+      1 Acidovorax temperans,99.55
+      1 Acidovorax temperans,99.55
+      1 Acidovorax temperans,99.55
+      1 Acidovorax temperans,99.55
+      1 Acinetobacter baumannii,99.51
+      1 Acinetobacter calcoaceticus,96.05
+      1 Acinetobacter genomosp. 15,99.10
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,100.00
+      1 Acinetobacter indicus,99.10
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,100.00
+      1 Acinetobacter junii,98.65
+      1 Acinetobacter junii,99.55
+      1 Acinetobacter junii,99.55
+      1 Actinomadura sp. ATC26,98.32
+      1 Actinomadura sp. ATC26,98.32
+      1 Actinomadura sp. ATC26,98.32
+      1 Actinomadura sp. ATC26,98.32
+      1 Actinomadura sp. ATC26,98.34
+      1 Actinomadura sp. NEAU-Gz5,93.28
+      1 Actinomadura sp. NEAU-Gz5,95.83
+      1 Actinomadura sp. NEAU-Gz5,95.83
+      1 Actinomadura sp. NEAU-Gz5,95.83
+      1 Actinomadura sp. NEAU-Gz5,95.83
+      1 Actinomadura sp. NEAU-Gz5,95.83
+      1 Actinomadura sp. NEAU-Gz5,95.83
+      1 Actinomyces naeslundii,100.00
+      1 Actinomycetales bacterium,96.73
+      1 Actinomycetales bacterium,97.62
+      1 Actinophytocola sp. YIM M13705,96.36
+      1 Aetherobacter rufus,92.96
+      1 Agitococcus lubricus,96.97
+      1 Arthrobacter russicus,100.00
+      1 Bacteroidales bacterium 'ARUP UnID 176',86.46
+      1 Bacteroidales bacterium R61,84.40
+      1 Bacteroides clarus YIT 12056,91.32
+      1 Bacteroides sp. W20,92.24
+      1 Bacteroides stercoris,91.46
+      1 Bacteroides uniformis,86.53
+      1 Bacteroides uniformis,86.53
+      1 Brachybacterium sp. THG-DL23,99.57
+      1 Brevibacterium linens,94.20
+      1 Brevibacterium linens,98.66
+      1 Brochothrix sp.,99.51
+      1 Burkholderia ambifaria,100.00
+      1 Burkholderia ambifaria,100.00
+      1 Burkholderia ambifaria,99.55
+      1 Candidatus Azospirillum massiliensis,99.14
+      1 Chryseobacterium indoltheticum,100.00
+      1 Chryseobacterium indoltheticum,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,100.00
+      1 Cloacibacterium normanense,99.54
+      1 Cloacibacterium normanense,99.55
+      1 Cloacibacterium sp. O15.2,100.00
+      1 Cloacibacterium sp. O15.2,100.00
+      1 Cloacibacterium sp. O15.2,100.00
+      1 Cloacibacterium sp. O15.2,100.00
+      1 Cloacibacterium sp. O15.2,100.00
+      1 Cloacibacterium sp. O15.2,100.00
+      1 Cloacibacterium sp. O15.2,100.00
+      1 Cloacibacterium sp. O15.2,100.00
+      1 Cloacibacterium sp. O15.2,100.00
+      1 Cloacibacterium sp. O15.2,100.00
+      1 Cloacibacterium sp. O15.2,100.00
+      1 Cloacibacterium sp. O15.2,100.00
+      1 Cloacibacterium sp. O15.2,100.00
+      1 Cloacibacterium sp. O15.2,99.54
+      1 Clostridiaceae bacterium BARN-424-CC-10,93.33
+      1 Clostridiaceae bacterium BARN-424-CC-10,93.33
+      1 Clostridiaceae bacterium BARN-424-CC-10,93.85
+      1 Clostridiaceae bacterium BARN-424-CC-10,93.90
+      1 Clostridiaceae bacterium BARN-424-CC-10,93.90
+      1 Clostridiaceae bacterium BARN-424-CC-10,93.90
+      1 Clostridiaceae bacterium BARN-424-CC-10,93.90
+      1 Clostridiaceae bacterium BARN-424-CC-10,93.90
+      1 Clostridiaceae bacterium SH032,83.41
+      1 Clostridiales bacterium 30-4c,95.81
+      1 Clostridiales bacterium 30-4c,95.83
+      1 Clostridiales bacterium 30-4c,95.89
+      1 Clostridiales bacterium 30-4c,96.74
+      1 Clostridiales bacterium CIEAF 012,97.92
+      1 Clostridiales bacterium CIEAF 021,89.90
+      1 Clostridiales bacterium NK3B98,88.48
+      1 Clostridiales bacterium oral taxon C20,95.50
+      1 Clostridiales bacterium oral taxon C20,95.50
+      1 Clostridium algidicarnis,98.58
+      1 Clostridium sp. 619,95.65
+      1 Clostridium sp. 619,95.65
+      1 Corynebacterium sp. full20,99.60
+      1 Corynebacterium sp. full20,99.60
+      1 Corynebacterium tuberculostearicum,100.00
+      1 Corynebacterium tuberculostearicum,100.00
+      1 Corynebacterium tuberculostearicum,99.57
+      1 Dechloromonas sp. I20,100.00
+      1 Dermacoccaceae bacterium C5-30,97.01
+      1 Dermacoccus sp.,98.28
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,100.00
+      1 Diaphorobacter sp.,97.83
+      1 Diaphorobacter sp.,99.10
+      1 Diaphorobacter sp.,99.10
+      1 Diaphorobacter sp.,99.11
+      1 Diaphorobacter sp.,99.54
+      1 Diaphorobacter sp.,99.54
+      1 Diaphorobacter sp.,99.54
+      1 Diaphorobacter sp.,99.55
+      1 Dokdonella sp. KIS55-21,92.16
+      1 Dokdonella sp. KIS55-21,92.16
+      1 Enterobacteriaceae bacterium PGBS004,99.55
+      1 Erysipelotrichaceae bacterium X-d8,92.76
+      1 Erysipelotrichaceae bacterium X-d8,92.76
+      1 Erysipelotrichaceae bacterium X-d8,92.92
+      1 Eubacterium siraeum V10Sc8a,90.71
+      1 Exiguobacterium sp.,100.00
+      1 Exiguobacterium sp.,99.48
+      1 Flavobacterium sasangense,100.00
+      1 Flavobacterium sasangense,99.56
+      1 Flavobacterium sp. THWCSN34,98.28
+      1 Flexivirga sp. R1,98.23
+      1 Flexivirga sp. R1,98.72
+      1 Galbibacter sp. ck-I2-15,98.49
+      1 Geosporobacter sp. LAM1220,84.78
+      1 Geosporobacter sp. LAM1220,84.78
+      1 Hydrogenophilus thermoluteolus,100.00
+      1 Hydrogenophilus thermoluteolus,100.00
+      1 Hymenobacter sp. 16F7D,100.00
+      1 Hymenobacter sp.,94.96
+      1 Janibacter-like sp. V4.BO.43,98.24
+      1 Jiangella alkaliphila,87.61
+      1 Jiangella alkaliphila,92.04
+      1 Knoellia sp. R-43101,99.13
+      1 Knoellia sp. R-43101,99.55
+      1 Lachnospiraceae bacterium DJF_VP30,93.78
+      1 Lactobacillales bacterium DJF_B280,91.78
+      1 Lactobacillales bacterium HY-36-1,88.94
+      1 Lactobacillales bacterium HY-36-1,90.79
+      1 Lactobacillales bacterium HY-36-1,92.34
+      1 Lactococcus lactis,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,100.00
+      1 Lupinus angustiflorus,93.90
+      1 Lupinus angustiflorus,94.19
+      1 Lupinus angustiflorus,94.19
+      1 Lupinus angustiflorus,94.38
+      1 Lupinus angustiflorus,94.51
+      1 Lupinus angustiflorus,94.62
+      1 Lupinus angustiflorus,94.74
+      1 Lupinus angustiflorus,94.74
+      1 Lupinus angustiflorus,94.78
+      1 Lupinus angustiflorus,94.79
+      1 Lupinus angustiflorus,94.79
+      1 Lupinus angustiflorus,94.94
+      1 Lupinus angustiflorus,95.00
+      1 Lupinus angustiflorus,95.12
+      1 Lupinus angustiflorus,95.12
+      1 Lupinus angustiflorus,95.16
+      1 Lupinus angustiflorus,95.20
+      1 Lupinus angustiflorus,95.38
+      1 Lupinus angustiflorus,95.38
+      1 Lupinus angustiflorus,95.38
+      1 Lupinus angustiflorus,95.38
+      1 Lupinus angustiflorus,95.38
+      1 Lupinus angustiflorus,95.38
+      1 Lupinus angustiflorus,95.38
+      1 Lupinus angustiflorus,95.42
+      1 Lupinus angustiflorus,95.42
+      1 Lupinus angustiflorus,95.42
+      1 Lupinus angustiflorus,95.42
+      1 Lupinus angustiflorus,95.42
+      1 Lupinus angustiflorus,95.42
+      1 Lupinus angustiflorus,95.45
+      1 Lupinus angustiflorus,95.45
+      1 Lupinus angustiflorus,95.45
+      1 Lupinus angustiflorus,95.45
+      1 Lupinus angustiflorus,95.45
+      1 Lupinus angustiflorus,95.51
+      1 Lupinus angustiflorus,95.51
+      1 Lupinus angustiflorus,95.60
+      1 Lupinus angustiflorus,98.89
+      1 Lupinus angustiflorus,99.43
+      1 Lupinus angustiflorus,99.44
+      1 Lupinus angustiflorus,99.44
+      1 Lupinus angustiflorus,99.45
+      1 Lupinus angustiflorus,99.46
+      1 Lupinus angustiflorus,99.53
+      1 Lupinus angustiflorus,99.55
+      1 Lupinus angustiflorus,99.55
+      1 Lupinus angustiflorus,99.55
+      1 Lupinus angustiflorus,99.56
+      1 Marmoricola sp. S20-100,96.48
+      1 Marmoricola sp. S20-100,96.54
+      1 Marmoricola sp. S20-100,96.60
+      1 Marmoricola sp. S20-100,96.76
+      1 Marmoricola sp. S20-100,96.86
+      1 Marmoricola sp. S20-100,96.88
+      1 Marmoricola sp. S20-100,96.88
+      1 Marmoricola sp. S20-100,96.89
+      1 Marmoricola sp. S20-100,96.89
+      1 Marmoricola sp. S20-100,96.89
+      1 Marmoricola sp. S20-100,97.28
+      1 Marmoricola sp. S20-100,97.29
+      1 Marmoricola sp. S20-100,97.29
+      1 Marmoricola sp. S20-100,97.29
+      1 Marmoricola sp. S20-100,97.48
+      1 Marmoricola sp. S20-100,97.77
+      1 Massilia sp.,99.47
+      1 Methylobacillus sp. OV,98.94
+      1 Methylobacillus sp. VITPRS29,98.68
+      1 Methylobacillus sp. Z,100.00
+      1 Methylobacillus sp. Z,100.00
+      1 Methylobacillus sp. Z,100.00
+      1 Methylobacillus sp. Z,100.00
+      1 Methylobacillus sp. Z,100.00
+      1 Methylobacillus sp. Z,100.00
+      1 Methylobacillus sp. Z,95.36
+      1 Methylobacillus sp. Z,97.81
+      1 Methylobacillus sp. Z,99.12
+      1 Methylobacillus sp. Z,99.56
+      1 Methylobacterium sp. F3.2,100.00
+      1 Methylomonas clara,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,100.00
+      1 Methylophilus quaylei,97.32
+      1 Methylophilus quaylei,97.56
+      1 Methylophilus quaylei,99.13
+      1 Methylophilus quaylei,99.55
+      1 Methylophilus quaylei,99.56
+      1 Methylophilus quaylei,99.57
+      1 Methylophilus quaylei,99.57
+      1 Methylophilus quaylei,99.57
+      1 Methylophilus quaylei,99.57
+      1 Methylophilus quaylei,99.57
+      1 Methylophilus quaylei,99.57
+      1 Methylophilus quaylei,99.57
+      1 Methylophilus quaylei,99.57
+      1 Methylophilus quaylei,99.57
+      1 Methylophilus quaylei,99.57
+      1 Methylophilus quaylei,99.57
+      1 Methylophilus quaylei,99.58
+      1 Methylophilus quaylei,99.58
+      1 Methylophilus sp. EHg7,95.98
+      1 Methylophilus sp. LTK,100.00
+      1 Methylophilus sp. LTK,100.00
+      1 Methylophilus sp. LTK,100.00
+      1 Methylophilus sp. LTK,99.50
+      1 Methylophilus sp. TWE2,100.00
+      1 Methylophilus sp. TWE2,100.00
+      1 Methylophilus sp. TWE2,100.00
+      1 Methylophilus sp. TWE2,100.00
+      1 Methylophilus sp. TWE2,100.00
+      1 Methylophilus sp. TWE2,100.00
+      1 Methylophilus sp. TWE2,99.09
+      1 Methylophilus sp. TWE2,99.14
+      1 Methylophilus sp. TWE2,99.57
+      1 Methylotenera mobilis,100.00
+      1 Methylotenera mobilis,100.00
+      1 Methylotenera mobilis,100.00
+      1 Methylotenera mobilis,100.00
+      1 Methylotenera mobilis,100.00
+      1 Methylotenera mobilis,98.19
+      1 Methylotenera mobilis,98.19
+      1 Methylotenera mobilis,99.50
+      1 Methylotenera mobilis,99.55
+      1 Methylovorus glucosotrophus,100.00
+      1 Microbacterium phyllosphaerae,100.00
+      1 Microcystis sp. SAG 43.90,100.00
+      1 Microcystis sp. SAG 43.90,96.30
+      1 Microcystis sp. SAG 43.90,99.55
+      1 Moraxella sp. feline oral taxon 350,91.07
+      1 Moraxella sp. feline oral taxon 350,91.15
+      1 Mycobacterium coloregonium,97.47
+      1 Mycobacterium coloregonium,97.77
+      1 Mycobacterium coloregonium,97.77
+      1 Mycobacterium coloregonium,98.17
+      1 Mycobacterium coloregonium,98.17
+      1 Mycobacterium coloregonium,98.17
+      1 Mycobacterium sp. 62/1,100.00
+      1 Mycobacterium sp. 62/1,100.00
+      1 Mycobacterium sp. 62/1,100.00
+      1 Mycobacterium sp. 62/1,100.00
+      1 Mycobacterium sp. 62/1,100.00
+      1 Mycobacterium sp. 62/1,99.10
+      1 Mycobacterium sp. DM-11,98.23
+      1 Mycobacterium sp. DM-11,98.66
+      1 Mycobacterium sp. DM-11,98.66
+      1 Mycobacterium sp. DM-11,98.66
+      1 Mycobacterium sp. DM-11,98.67
+      1 Mycobacterium sp. smRA94,98.66
+      1 Mycobacterium sp.;Klebsiella sp. EN1,99.15
+      1 Mycobacterium tusciae JS617,99.14
+      1 Mycobacterium tusciae JS617,99.57
+      1 Mycobacterium tusciae,98.68
+      1 Nocardia sp. AR23308,97.67
+      1 Nocardia sp. AR23308,97.67
+      1 Nocardia sp. AR23308,97.67
+      1 Nocardia sp. AR23308,97.67
+      1 Nocardia sp.,98.65
+      1 Nocardia sp.,98.67
+      1 Nocardioides sp. AP3,95.11
+      1 Nocardioides sp. RHLT1-14,95.98
+      1 Novosphingobium sp.,96.74
+      1 Oscillibacter valericigenes,91.15
+      1 Oxalobacteraceae bacterium MORI3,99.55
+      1 Paracoccus sp. 1011MAR3C25,99.19
+      1 Parcubacteria bacterium GW2011_GWC2_32_10,91.11
+      1 Parcubacteria bacterium GW2011_GWC2_32_10,91.11
+      1 Parcubacteria bacterium GW2011_GWC2_32_10,91.11
+      1 Parcubacteria bacterium GW2011_GWC2_32_10,91.56
+      1 Pelomonas puraquae,100.00
+      1 Pelomonas puraquae,100.00
+      1 Pelomonas puraquae,100.00
+      1 Pelomonas puraquae,99.47
+      1 Polaromonas sp. G1-28,100.00
+      1 Prevotella melaninogenica,86.16
+      1 Prevotella melaninogenica,86.64
+      1 Prevotella melaninogenica,87.12
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium acnes subsp. acnes,96.62
+      1 Propionibacterium acnes subsp. acnes,99.58
+      1 Propionibacterium acnes subsp. acnes,99.58
+      1 Propionibacterium acnes subsp. acnes,99.58
+      1 Propionibacterium acnes subsp. acnes,99.58
+      1 Propionibacterium acnes subsp. acnes,99.58
+      1 Propionibacterium acnes,96.12
+      1 Propionibacterium acnes,97.05
+      1 Pseudomonas gessardii,99.55
+      1 Pseudomonas sp.,100.00
+      1 Pseudonocardia alaniniphila,93.75
+      1 Pseudonocardia sp. IFP 2050,98.17
+      1 Pseudonocardia sp. IFP 2050,98.29
+      1 Rhodanobacter soli,87.96
+      1 Rhodanobacter soli,88.52
+      1 Rhodanobacter sp. MJ01,88.16
+      1 Rhodanobacter sp. MJ01,88.51
+      1 Rhodococcus sp.,98.72
+      1 Rhodococcus sp.,99.15
+      1 Rhodoferax sp. K129,98.62
+      1 Rothia mucilaginosa,100.00
+      1 Rubrivivax sp. SNRB4-8,99.57
+      1 Ruminococcus sp.,94.97
+      1 Ruminococcus sp.,95.12
+      1 Ruminococcus sp.,95.12
+      1 Ruminococcus sp.,95.12
+      1 Ruminococcus sp.,95.45
+      1 Ruminococcus sp.,95.48
+      1 Ruminococcus sp.,95.52
+      1 Saccharothrix syringae,94.17
+      1 Saccharothrix syringae,94.17
+      1 Saccharothrix syringae,94.58
+      1 Saccharothrix syringae,94.58
+      1 Saccharothrix syringae,94.58
+      1 Sphingobium vulgare,99.54
+      1 Sphingobium vulgare,99.54
+      1 Sphingomonas sp.,100.00
+      1 Staphylococcus succinus,100.00
+      1 Streptococcus mitis,99.05
+      1 Streptomyces atroolivaceus,100.00
+      1 Streptomyces griseus,98.72
+      1 Streptomyces sp. 14CM001,98.61
+      1 Streptomyces sp. 14CM001,99.07
+      1 Streptomyces sp. 14CM001,99.07
+      1 Streptomyces sp. 14CM001,99.07
+      1 Streptomyces sp. 14CM001,99.53
+      1 Streptomyces sp. 172205,100.00
+      1 Streptomyces sp. B1S171,100.00
+      1 Streptomyces sp. B1S171,100.00
+      1 Streptomyces sp. B1S171,100.00
+      1 Streptomyces sp. B1S171,99.55
+      1 Streptosporangiaceae bacterium ACTS20,86.60
+      1 Streptosporangineae bacterium 413C05,86.42
+      1 Streptosporangineae bacterium 413C05,87.01
+      1 Synedra hyperborea,98.14
+      1 Uliginosibacterium sp. JJ016,93.52
+      1 Uliginosibacterium sp. JJ016,93.68
+      1 Virgosporangium sp. 331E12,97.54
+      1 Zoogloea caeni,100.00
+      1 Zoogloea caeni,100.00
+      1 Zoogloea caeni,100.00
+      1 actinomycete S23434,94.09
+      1 bacterium 52-L049642-122-014-D07,97.90
+      1 bacterium 52-L049642-122-014-D07,97.90
+      1 bacterium 52-L049642-122-014-D07,97.93
+      1 bacterium A7(2010),85.71
+      1 bacterium FB2012,89.52
+      1 bacterium FB2012,89.52
+      1 bacterium FB2012,89.52
+      1 bacterium FB2012,89.52
+      1 bacterium FB2012,89.52
+      1 bacterium FB2012,92.42
+      1 bacterium NB4001,87.17
+      1 bacterium NLAE-zl-C488,92.24
+      1 bacterium NLAE-zl-C488,92.24
+      1 bacterium P2G6,90.95
+      1 bacterium P2G6,90.95
+      1 bacterium S3-021-16S,95.81
+      1 bacterium S3-021-16S,98.67
+      1 bacterium S3-021-16S,99.11
+      1 bacterium S3-021-16S,99.12
+      1 bacterium S3-021-16S,99.56
+      1 bacterium S3-021-16S,99.57
+      1 bacterium S3-021-16S,99.57
+      1 bacterium S3-021-16S,99.57
+      1 bacterium S3-021-16S,99.57
+      1 bacterium S3-021-16S,99.57
+      1 bacterium S3-021-16S,99.57
+      1 bacterium S3-021-16S,99.57
+      1 bacterium S3-021-16S,99.57
+      1 bacterium S3-021-16S,99.57
+      1 bacterium WH3-2,91.55
+      1 bacterium WH3-2,92.25
+      1 bacterium WH3-2,92.25
+      1 bacterium WH3-2,92.75
+      1 bacterium WH3-2,95.35
+      1 bacterium XPD3003,83.33
+      1 bacterium XPD3003,83.76
+      1 bacterium XPD3003,87.16
+      1 bacterium XPD3003,93.80
+      1 rumen bacterium R-21,90.18
+      1 unidentified bacterium,100.00
+      1 unidentified bacterium,100.00
+      1 unidentified bacterium,100.00
+      1 unidentified bacterium,100.00
+      1 unidentified bacterium,87.97
+      1 unidentified bacterium,88.48
+      1 unidentified bacterium,89.21
+      1 unidentified bacterium,89.39
+      1 unidentified bacterium,97.67
+      1 unidentified bacterium,98.27
+      1 unidentified bacterium,98.28
+      1 unidentified bacterium,98.29
+      1 unidentified bacterium,98.64
+      1 unidentified bacterium,98.73
+      1 unidentified bacterium,99.55
+      1 unidentified bacterium,99.55
+      1 unidentified bacterium,99.56
+      2 Acidovorax sp.,100.00
+      2 Acidovorax sp.,100.00
+      2 Acidovorax sp.,100.00
+      2 Acidovorax sp.,100.00
+      2 Acidovorax sp.,100.00
+      2 Acidovorax sp.,100.00
+      2 Acidovorax sp.,100.00
+      2 Acidovorax sp.,100.00
+      2 Acidovorax sp.,100.00
+      2 Acidovorax sp.,100.00
+      2 Acidovorax sp.,100.00
+      2 Acidovorax sp.,100.00
+      2 Acidovorax sp.,100.00
+      2 Acidovorax sp.,100.00
+      2 Acidovorax sp.,99.55
+      2 Acidovorax temperans,100.00
+      2 Acinetobacter genomosp. 15,99.10
+      2 Bartonella sp. JB63,98.66
+      2 Bartonella sp. JB63,99.10
+      2 Bartonella sp. JB63,99.10
+      2 Bartonella sp. JB63,99.10
+      2 Brevibacterium linens,94.64
+      2 Cloacibacterium normanense,100.00
+      2 Cloacibacterium normanense,100.00
+      2 Cloacibacterium normanense,100.00
+      2 Diaphorobacter sp.,100.00
+      2 Ginkgo biloba,96.52
+      2 Methylobacillus sp. Z,100.00
+      2 Methylophilus quaylei,100.00
+      3 Acidovorax sp.,100.00
+      3 Acidovorax sp.,100.00
+      3 Acidovorax sp.,100.00
+      6 Acidovorax sp.,100.00
+      6 Lactococcus lactis subsp. lactis,100.00

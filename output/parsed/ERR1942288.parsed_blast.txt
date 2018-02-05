@@ -1,0 +1,591 @@
+      1 Acetatifactor muris,89.81
+      1 Alistipes senegalensis JC50,87.82
+      1 Alistipes senegalensis JC50,88.48
+      1 Anaerostipes sp. 494a,86.96
+      1 Arthrobacter sp. MYb224,100.00
+      1 Bacteroides finegoldii,84.89
+      1 Bacteroides finegoldii,84.89
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,100.00
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.12
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.16
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.18
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.18
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.22
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.60
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.60
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.60
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.60
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.62
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.62
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.62
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.63
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.63
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.63
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.65
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.65
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.65
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.65
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.77
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.77
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.77
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.78
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.79
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.83
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.91
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.93
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,98.96
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.07
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.07
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.07
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.07
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.07
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.07
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.07
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.07
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.07
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.07
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.07
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.07
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.07
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.07
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.07
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.07
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.07
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.07
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.10
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.10
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.10
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.10
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.10
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.10
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.10
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.10
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.10
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.10
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.10
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.10
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.10
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.10
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.11
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.11
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.38
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.38
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.38
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.38
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.38
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.38
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.38
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.40
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.40
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.42
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.42
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.42
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.42
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.44
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.44
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.44
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.44
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.44
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.44
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.46
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.47
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.48
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.48
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.49
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.50
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.51
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.51
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.51
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.51
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.51
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.51
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.51
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.52
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.53
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.53
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.53
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.53
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.53
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.53
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.53
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.53
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.53
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.53
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.53
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.53
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.53
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.53
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.53
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      1 Butyricicoccus sp. BB10,91.40
+      1 Butyricicoccus sp. BB10,92.47
+      1 Christensenella sp. AF73-05CM02,99.10
+      1 Clostridiaceae bacterium WN011,95.41
+      1 Clostridiales bacterium 24-4c,95.12
+      1 Clostridiales bacterium CIEAF 029,94.72
+      1 Clostridiales bacterium oral taxon 085,89.67
+      1 Clostridium aminophilum,92.73
+      1 Clostridium aminophilum,92.75
+      1 Clostridium sp. Culture-23,95.22
+      1 Clostridium sp. cTPY-17,95.93
+      1 Eubacterium coprostanoligenes,89.91
+      1 Eubacterium coprostanoligenes,93.33
+      1 Flavonifractor plautii,97.22
+      1 Friedmanniella sp. Pao13,99.07
+      1 Friedmanniella sp.,100.00
+      1 Friedmanniella sp.,100.00
+      1 Gram-negative bacterium cL10-2b-4,82.86
+      1 Gram-negative bacterium cL10-2b-4,85.65
+      1 Knoellia sp.,99.55
+      1 Lachnospiraceae bacterium 14-2,88.79
+      1 Lachnospiraceae bacterium G11,92.92
+      1 Lachnospiraceae bacterium SRB530,90.00
+      1 Lachnospiraceae bacterium V37_10_1,94.42
+      1 Lactobacillales bacterium HY-36-1,91.08
+      1 Lactobacillales bacterium HY-36-1,91.08
+      1 Massilia brevitalea,98.60
+      1 Massilia sp. 8B-2,100.00
+      1 Microbacterium sp.,99.55
+      1 Microbacterium sp.,99.55
+      1 Mycobacterium pyrenivorans,96.88
+      1 Pseudoflavonifractor sp. Marseille-P3106,91.24
+      1 Ruminococcaceae bacterium Marseille-P2963,91.19
+      1 Ruminococcus champanellensis 18P13,93.81
+      1 Ruminococcus champanellensis 18P13,95.21
+      1 Staphylococcus saccharolyticus,100.00
+      1 Staphylococcus succinus,100.00
+      1 Streptomyces sp. 645271,98.60
+      1 TM7 phylum sp. oral taxon 351,95.75
+      1 bacterium AC2028,94.37
+      1 bacterium AC2028,94.37
+      1 bacterium AC2028,94.47
+      1 bacterium FE2016,93.09
+      1 bacterium Iso11_2,93.95
+      1 bacterium NE3006,93.43
+      1 bacterium NLAE-zl-G12,92.27
+      1 bacterium NLAE-zl-G12,93.47
+      1 bacterium NLAE-zl-H350,92.89
+      1 bacterium YGD2004,83.77
+      1 mixed culture ruminal bacterium PAD193,94.44
+      1 rumen bacterium NK4B4,91.10
+      1 rumen bacterium YS2,90.73
+      1 unidentified bacterium,100.00
+      1 unidentified bacterium,85.07
+      1 unidentified bacterium,90.18
+      1 unidentified bacterium,91.25
+      1 unidentified bacterium,94.74
+      1 unidentified bacterium,98.19
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.07
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.08
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.10
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.53
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.53
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      2 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      2 Candidatus Melainabacteria bacterium MEL.A1,88.73
+      2 Tannerella forsythia KS16,92.31
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.09
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      3 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      4 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      4 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      4 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      4 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      4 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      4 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      4 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      4 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      4 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      4 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      4 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      4 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      4 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      4 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      4 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      4 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      4 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      4 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      4 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      5 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      5 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      5 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      5 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      5 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      5 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      6 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      6 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      6 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.55
+      8 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+      8 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54
+     14 Bacteroidetes endosymbiont of Metaseiulus occidentalis,99.54

@@ -1,0 +1,289 @@
+      1 Alistipes shahii,86.50
+      1 Alkalibacterium iburiense,88.42
+      1 Alkalibacterium iburiense,88.73
+      1 Alkalibacterium iburiense,88.94
+      1 Alkalibacterium iburiense,89.04
+      1 Anaeroplasma abactoclasticum,86.83
+      1 Anaplasma phagocytophilum,98.20
+      1 Anaplasma phagocytophilum,98.20
+      1 Anaplasma phagocytophilum,98.20
+      1 Anaplasma phagocytophilum,98.21
+      1 Arthrobacter bergerei,100.00
+      1 Arthrobacter bergerei,100.00
+      1 Arthrobacter bergerei,100.00
+      1 Arthrobacter sp.,97.40
+      1 Bacteroidales bacterium ph8,89.58
+      1 Bacteroides sp. W20,92.12
+      1 Bartonella jaculi,99.08
+      1 Bartonella jaculi,99.39
+      1 Bartonella sp. JM-1,95.28
+      1 Bartonella sp. JM-1,96.07
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,100.00
+      1 Bartonella washoensis,93.81
+      1 Bartonella washoensis,96.19
+      1 Bartonella washoensis,98.57
+      1 Bartonella washoensis,98.67
+      1 Bartonella washoensis,98.68
+      1 Bartonella washoensis,99.07
+      1 Bartonella washoensis,99.07
+      1 Bartonella washoensis,99.08
+      1 Bartonella washoensis,99.09
+      1 Bartonella washoensis,99.10
+      1 Bartonella washoensis,99.10
+      1 Bartonella washoensis,99.11
+      1 Bartonella washoensis,99.46
+      1 Bartonella washoensis,99.48
+      1 Bartonella washoensis,99.50
+      1 Bartonella washoensis,99.52
+      1 Bartonella washoensis,99.52
+      1 Bartonella washoensis,99.52
+      1 Bartonella washoensis,99.52
+      1 Bartonella washoensis,99.52
+      1 Bartonella washoensis,99.53
+      1 Bartonella washoensis,99.53
+      1 Bartonella washoensis,99.53
+      1 Bartonella washoensis,99.53
+      1 Bartonella washoensis,99.53
+      1 Bartonella washoensis,99.53
+      1 Bartonella washoensis,99.53
+      1 Bartonella washoensis,99.53
+      1 Bartonella washoensis,99.53
+      1 Bartonella washoensis,99.53
+      1 Bartonella washoensis,99.54
+      1 Bartonella washoensis,99.54
+      1 Bartonella washoensis,99.54
+      1 Bartonella washoensis,99.54
+      1 Bartonella washoensis,99.54
+      1 Bartonella washoensis,99.54
+      1 Bartonella washoensis,99.54
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.55
+      1 Bartonella washoensis,99.56
+      1 Bartonella washoensis,99.56
+      1 Bartonella washoensis,99.56
+      1 Bartonella washoensis,99.56
+      1 Bartonella washoensis,99.56
+      1 Bartonella washoensis,99.56
+      1 Bartonella washoensis,99.56
+      1 Brachybacterium paraconglomeratum,99.56
+      1 Butyricicoccus sp. BB10,91.20
+      1 Clostridiales bacterium CIEAF 020,94.64
+      1 Clostridiales bacterium CIEAF 020,94.67
+      1 Clostridiales bacterium Marseille-P2846,94.42
+      1 Clostridiales bacterium oral taxon 085,89.18
+      1 Clostridiales bacterium oral taxon 085,90.34
+      1 Clostridium sp. ARIAKE994,87.84
+      1 Clostridium sp. Clone-47,90.52
+      1 Clostridium sp. Clone-47,93.21
+      1 Clostridium sp. S11-3-10,90.87
+      1 Coprococcus catus GD/7,94.22
+      1 Coprococcus sp. NATH-2371,95.02
+      1 Coprococcus sp. NATH-2371,96.30
+      1 Devosia geojensis,96.12
+      1 Eubacterium siraeum 70/3,90.83
+      1 Flavobacterium sp. CRH,96.38
+      1 Flavobacterium sp. CRH,96.46
+      1 Gram-negative bacterium cL10-2b-4,86.00
+      1 Hymenobacter sp. 9PNM-21,83.83
+      1 Lachnospiraceae bacterium NK4A179,95.56
+      1 Leucobacter sp.,96.33
+      1 Massilia sp. 8B-2,100.00
+      1 Microlunatus panaciterrae,94.98
+      1 Pedobacter bauzanensis,96.76
+      1 Peptoniphilus sp. BG5,89.04
+      1 Prevotella melaninogenica,85.02
+      1 Propionibacterium acnes subsp. acnes,100.00
+      1 Propionibacterium sp. canine oral taxon 431,99.60
+      1 Pseudomonas sp.,97.30
+      1 Roseburia sp. 1120,88.95
+      1 Rothia amarae,93.89
+      1 Rugamonas sp.,100.00
+      1 Ruminococcus flavefaciens,84.07
+      1 Ruminococcus flavefaciens,87.03
+      1 Staphylococcus succinus subsp. succinus,99.59
+      1 Subtercola sp. MDB1-51,98.17
+      1 Subtercola sp. MDB1-51,98.64
+      1 [Ruminococcus] gnavus,95.87
+      1 [Ruminococcus] gnavus,96.19
+      1 bacterium AC2010,83.87
+      1 bacterium AC2028,93.61
+      1 bacterium AC2044,96.23
+      1 bacterium AC2044,96.69
+      1 bacterium AE3015,87.04
+      1 bacterium F6(2009),98.20
+      1 bacterium F6(2009),98.64
+      1 bacterium NC2001,93.81
+      1 bacterium NLAE-zl-G1,94.92
+      1 bacterium NLAE-zl-G12,93.97
+      1 bacterium WCD3007,85.44
+      1 bacterium WCE2003,92.56
+      1 bacterium XPD2003,95.69
+      1 rumen bacterium NK4B4,95.34
+      1 unidentified bacterium,100.00
+      1 unidentified bacterium,89.95
+      1 unidentified bacterium,91.71
+      1 unidentified bacterium,93.13
+      2 Bartonella tribocorum,99.55
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,100.00
+      2 Bartonella washoensis,99.54
+      2 Bartonella washoensis,99.55
+      2 Bartonella washoensis,99.55
+      2 Bartonella washoensis,99.55
+      2 Bartonella washoensis,99.55
+      2 Bartonella washoensis,99.55
+      3 Bartonella washoensis,100.00
+      3 Bartonella washoensis,100.00
+      3 Bartonella washoensis,100.00
+      3 Bartonella washoensis,100.00
+      3 Bartonella washoensis,100.00
+      3 Bartonella washoensis,100.00
+      3 Bartonella washoensis,100.00
+      3 Bartonella washoensis,100.00
+      3 Bartonella washoensis,100.00
+      3 Bartonella washoensis,100.00
+      3 Bartonella washoensis,100.00
+      3 Bartonella washoensis,100.00
+      3 Bartonella washoensis,100.00
+      3 Bartonella washoensis,100.00
+      4 Bartonella washoensis,100.00
+      4 Bartonella washoensis,100.00
+      4 Bartonella washoensis,100.00
+      4 Bartonella washoensis,100.00
+      4 Bartonella washoensis,100.00
+      4 Bartonella washoensis,100.00
+      4 Bartonella washoensis,100.00
+      4 Bartonella washoensis,100.00
+      4 Bartonella washoensis,100.00
+      4 Bartonella washoensis,100.00
+      4 Bartonella washoensis,100.00
+      4 Bartonella washoensis,100.00
+      4 Bartonella washoensis,100.00
+      4 Bartonella washoensis,100.00
+      4 Bartonella washoensis,100.00
+      4 Bartonella washoensis,100.00
+      4 Streptococcus sp. HTS2,95.05
+      5 Bartonella washoensis,100.00
+      5 Bartonella washoensis,100.00
+      5 Bartonella washoensis,100.00
+      5 Bartonella washoensis,100.00
+      5 Bartonella washoensis,100.00
+      5 Bartonella washoensis,100.00
+      5 Bartonella washoensis,100.00
+      5 Bartonella washoensis,100.00
+      5 Bartonella washoensis,100.00
+      5 Bartonella washoensis,100.00
+      5 Bartonella washoensis,100.00
+      5 Bartonella washoensis,100.00
+      5 Bartonella washoensis,100.00
+      6 Bartonella washoensis,100.00
+      6 Bartonella washoensis,100.00
+      6 Bartonella washoensis,100.00
+      6 Bartonella washoensis,100.00
+      6 Bartonella washoensis,100.00
+      6 Bartonella washoensis,100.00
+      7 Bartonella washoensis,100.00
+      7 Bartonella washoensis,100.00
+      8 Bartonella washoensis,100.00
+      8 Bartonella washoensis,100.00
+      8 Bartonella washoensis,100.00
+      9 Bartonella washoensis,100.00
+      9 Bartonella washoensis,100.00
+     10 Bartonella washoensis,100.00
